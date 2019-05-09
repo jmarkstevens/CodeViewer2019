@@ -1,0 +1,4227 @@
+[
+  {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "children": [],
+                "nodeid": "BergstromGardens/js/routes/getbodypiclist.js",
+                "title": "getbodypiclist.js"
+              },
+              {
+                "children": [],
+                "nodeid": "BergstromGardens/js/routes/getjsondata.js",
+                "title": "getjsondata.js"
+              }
+            ],
+            "nodeid": "BergstromGardens/js/routes",
+            "title": "routes",
+            "closed": true
+          },
+          {
+            "children": [],
+            "nodeid": "BergstromGardens/js/routes.js",
+            "title": "routes.js"
+          },
+          {
+            "children": [],
+            "nodeid": "BergstromGardens/js/server.js",
+            "title": "server.js"
+          }
+        ],
+        "nodeid": "BergstromGardens/js",
+        "title": "js",
+        "closed": true
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [],
+                    "nodeid": "BergstromGardens/ui-src/components/about/about.page.jsx",
+                    "title": "about.page.jsx"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "BergstromGardens/ui-src/components/about/about.text.js",
+                    "title": "about.text.js"
+                  }
+                ],
+                "nodeid": "BergstromGardens/ui-src/components/about",
+                "title": "about",
+                "closed": true
+              },
+              {
+                "children": [
+                  {
+                    "children": [],
+                    "nodeid": "BergstromGardens/ui-src/components/articles/articles.page.jsx",
+                    "title": "articles.page.jsx"
+                  }
+                ],
+                "nodeid": "BergstromGardens/ui-src/components/articles",
+                "title": "articles",
+                "closed": true
+              },
+              {
+                "children": [
+                  {
+                    "children": [],
+                    "nodeid": "BergstromGardens/ui-src/components/common/app.style.jsx",
+                    "title": "app.style.jsx"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "BergstromGardens/ui-src/components/common/nav.bar.jsx",
+                    "title": "nav.bar.jsx"
+                  }
+                ],
+                "nodeid": "BergstromGardens/ui-src/components/common",
+                "title": "common",
+                "closed": true
+              },
+              {
+                "children": [
+                  {
+                    "children": [],
+                    "nodeid": "BergstromGardens/ui-src/components/garden/garden.page.jsx",
+                    "title": "garden.page.jsx"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "BergstromGardens/ui-src/components/garden/garden.text.js",
+                    "title": "garden.text.js"
+                  }
+                ],
+                "nodeid": "BergstromGardens/ui-src/components/garden",
+                "title": "garden",
+                "closed": true
+              },
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "children": [],
+                        "nodeid": "BergstromGardens/ui-src/components/home/popups/about.popup.jsx",
+                        "title": "about.popup.jsx"
+                      },
+                      {
+                        "children": [],
+                        "nodeid": "BergstromGardens/ui-src/components/home/popups/articles.popup.jsx",
+                        "title": "articles.popup.jsx"
+                      },
+                      {
+                        "children": [],
+                        "nodeid": "BergstromGardens/ui-src/components/home/popups/garden.popup.jsx",
+                        "title": "garden.popup.jsx"
+                      },
+                      {
+                        "children": [],
+                        "nodeid": "BergstromGardens/ui-src/components/home/popups/home.popup.jsx",
+                        "title": "home.popup.jsx"
+                      },
+                      {
+                        "children": [],
+                        "nodeid": "BergstromGardens/ui-src/components/home/popups/identify.popup.jsx",
+                        "title": "identify.popup.jsx"
+                      },
+                      {
+                        "children": [],
+                        "nodeid": "BergstromGardens/ui-src/components/home/popups/palmapp.popup.jsx",
+                        "title": "palmapp.popup.jsx"
+                      },
+                      {
+                        "children": [],
+                        "nodeid": "BergstromGardens/ui-src/components/home/popups/pop.style.js",
+                        "title": "pop.style.js"
+                      }
+                    ],
+                    "nodeid": "BergstromGardens/ui-src/components/home/popups",
+                    "title": "popups",
+                    "closed": true
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "BergstromGardens/ui-src/components/home/home.logo.jsx",
+                    "title": "home.logo.jsx"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "BergstromGardens/ui-src/components/home/home.page.jsx",
+                    "title": "home.page.jsx"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "BergstromGardens/ui-src/components/home/home.style.js",
+                    "title": "home.style.js"
+                  }
+                ],
+                "nodeid": "BergstromGardens/ui-src/components/home",
+                "title": "home",
+                "closed": true
+              },
+              {
+                "children": [
+                  {
+                    "children": [],
+                    "nodeid": "BergstromGardens/ui-src/components/identify/identify.page.jsx",
+                    "title": "identify.page.jsx"
+                  }
+                ],
+                "nodeid": "BergstromGardens/ui-src/components/identify",
+                "title": "identify",
+                "closed": true
+              },
+              {
+                "children": [
+                  {
+                    "children": [],
+                    "nodeid": "BergstromGardens/ui-src/components/palmapp/palmapp.page.jsx",
+                    "title": "palmapp.page.jsx"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "BergstromGardens/ui-src/components/palmapp/palmapp.style.js",
+                    "title": "palmapp.style.js"
+                  }
+                ],
+                "nodeid": "BergstromGardens/ui-src/components/palmapp",
+                "title": "palmapp",
+                "closed": true
+              },
+              {
+                "children": [],
+                "nodeid": "BergstromGardens/ui-src/components/app.ctrl.jsx",
+                "title": "app.ctrl.jsx"
+              }
+            ],
+            "nodeid": "BergstromGardens/ui-src/components",
+            "title": "components",
+            "closed": true
+          },
+          {
+            "children": [
+              {
+                "children": [],
+                "nodeid": "BergstromGardens/ui-src/css/index.css",
+                "title": "index.css"
+              }
+            ],
+            "nodeid": "BergstromGardens/ui-src/css",
+            "title": "css",
+            "closed": true
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [],
+                    "nodeid": "BergstromGardens/ui-src/store/app/app.actions.js",
+                    "title": "app.actions.js"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "BergstromGardens/ui-src/store/app/app.reducer.js",
+                    "title": "app.reducer.js"
+                  }
+                ],
+                "nodeid": "BergstromGardens/ui-src/store/app",
+                "title": "app",
+                "closed": true
+              },
+              {
+                "children": [
+                  {
+                    "children": [],
+                    "nodeid": "BergstromGardens/ui-src/store/pics/pics.actions.js",
+                    "title": "pics.actions.js"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "BergstromGardens/ui-src/store/pics/pics.reducer.js",
+                    "title": "pics.reducer.js"
+                  }
+                ],
+                "nodeid": "BergstromGardens/ui-src/store/pics",
+                "title": "pics",
+                "closed": true
+              },
+              {
+                "children": [],
+                "nodeid": "BergstromGardens/ui-src/store/App.Store.js",
+                "title": "App.Store.js"
+              },
+              {
+                "children": [],
+                "nodeid": "BergstromGardens/ui-src/store/api.actions.js",
+                "title": "api.actions.js"
+              }
+            ],
+            "nodeid": "BergstromGardens/ui-src/store",
+            "title": "store",
+            "closed": true
+          },
+          {
+            "children": [],
+            "nodeid": "BergstromGardens/ui-src/app.jsx",
+            "title": "app.jsx"
+          },
+          {
+            "children": [],
+            "nodeid": "BergstromGardens/ui-src/index.html",
+            "title": "index.html"
+          }
+        ],
+        "nodeid": "BergstromGardens/ui-src",
+        "title": "ui-src",
+        "closed": true
+      },
+      {
+        "children": [],
+        "nodeid": "BergstromGardens/package.json",
+        "title": "package.json"
+      },
+      {
+        "children": [],
+        "nodeid": "BergstromGardens/webpack.config.js",
+        "title": "webpack.config.js"
+      },
+      {
+        "children": [],
+        "nodeid": "BergstromGardens/webpack.config.json",
+        "title": "webpack.config.json"
+      }
+    ],
+    "nodeid": "BergstromGardens",
+    "title": "BergstromGardens",
+    "closed": true
+  },
+  {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [],
+            "nodeid": "JMarkStevens/js/server.js",
+            "title": "server.js"
+          }
+        ],
+        "nodeid": "JMarkStevens/js",
+        "title": "js",
+        "closed": true
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [],
+                    "nodeid": "JMarkStevens/ui-src/components/common/app.colors.js",
+                    "title": "app.colors.js"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "JMarkStevens/ui-src/components/common/app.style.jsx",
+                    "title": "app.style.jsx"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "JMarkStevens/ui-src/components/common/nav.bar.jsx",
+                    "title": "nav.bar.jsx"
+                  }
+                ],
+                "nodeid": "JMarkStevens/ui-src/components/common",
+                "title": "common",
+                "closed": true
+              },
+              {
+                "children": [
+                  {
+                    "children": [],
+                    "nodeid": "JMarkStevens/ui-src/components/contact/contact.page.jsx",
+                    "title": "contact.page.jsx"
+                  }
+                ],
+                "nodeid": "JMarkStevens/ui-src/components/contact",
+                "title": "contact",
+                "closed": true
+              },
+              {
+                "children": [
+                  {
+                    "children": [],
+                    "nodeid": "JMarkStevens/ui-src/components/examples/examples.page.jsx",
+                    "title": "examples.page.jsx"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "JMarkStevens/ui-src/components/examples/examples.pop.jsx",
+                    "title": "examples.pop.jsx"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "JMarkStevens/ui-src/components/examples/examples.style.js",
+                    "title": "examples.style.js"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "JMarkStevens/ui-src/components/examples/examples.text.js",
+                    "title": "examples.text.js"
+                  }
+                ],
+                "nodeid": "JMarkStevens/ui-src/components/examples",
+                "title": "examples",
+                "closed": true
+              },
+              {
+                "children": [
+                  {
+                    "children": [],
+                    "nodeid": "JMarkStevens/ui-src/components/home/home.page.jsx",
+                    "title": "home.page.jsx"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "JMarkStevens/ui-src/components/home/home.text.js",
+                    "title": "home.text.js"
+                  }
+                ],
+                "nodeid": "JMarkStevens/ui-src/components/home",
+                "title": "home",
+                "closed": true
+              },
+              {
+                "children": [
+                  {
+                    "children": [],
+                    "nodeid": "JMarkStevens/ui-src/components/home2/home.page.jsx",
+                    "title": "home.page.jsx"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "JMarkStevens/ui-src/components/home2/home.pop.jsx",
+                    "title": "home.pop.jsx"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "JMarkStevens/ui-src/components/home2/home.sec1.jsx",
+                    "title": "home.sec1.jsx"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "JMarkStevens/ui-src/components/home2/home.text.js",
+                    "title": "home.text.js"
+                  }
+                ],
+                "nodeid": "JMarkStevens/ui-src/components/home2",
+                "title": "home2",
+                "closed": true
+              },
+              {
+                "children": [
+                  {
+                    "children": [],
+                    "nodeid": "JMarkStevens/ui-src/components/resume/resume.page.jsx",
+                    "title": "resume.page.jsx"
+                  }
+                ],
+                "nodeid": "JMarkStevens/ui-src/components/resume",
+                "title": "resume",
+                "closed": true
+              },
+              {
+                "children": [],
+                "nodeid": "JMarkStevens/ui-src/components/app.ctrl.jsx",
+                "title": "app.ctrl.jsx"
+              }
+            ],
+            "nodeid": "JMarkStevens/ui-src/components",
+            "title": "components",
+            "closed": true
+          },
+          {
+            "children": [
+              {
+                "children": [],
+                "nodeid": "JMarkStevens/ui-src/css/darkula.css",
+                "title": "darkula.css"
+              },
+              {
+                "children": [],
+                "nodeid": "JMarkStevens/ui-src/css/index.css",
+                "title": "index.css"
+              },
+              {
+                "children": [],
+                "nodeid": "JMarkStevens/ui-src/css/markedarea.css",
+                "title": "markedarea.css"
+              },
+              {
+                "children": [],
+                "nodeid": "JMarkStevens/ui-src/css/twilightj.css",
+                "title": "twilightj.css"
+              }
+            ],
+            "nodeid": "JMarkStevens/ui-src/css",
+            "title": "css",
+            "closed": true
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [],
+                    "nodeid": "JMarkStevens/ui-src/store/app/app.actions.js",
+                    "title": "app.actions.js"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "JMarkStevens/ui-src/store/app/app.reducer.js",
+                    "title": "app.reducer.js"
+                  }
+                ],
+                "nodeid": "JMarkStevens/ui-src/store/app",
+                "title": "app",
+                "closed": true
+              },
+              {
+                "children": [],
+                "nodeid": "JMarkStevens/ui-src/store/App.Store.js",
+                "title": "App.Store.js"
+              }
+            ],
+            "nodeid": "JMarkStevens/ui-src/store",
+            "title": "store",
+            "closed": true
+          },
+          {
+            "children": [],
+            "nodeid": "JMarkStevens/ui-src/app.jsx",
+            "title": "app.jsx"
+          },
+          {
+            "children": [],
+            "nodeid": "JMarkStevens/ui-src/index.html",
+            "title": "index.html"
+          }
+        ],
+        "nodeid": "JMarkStevens/ui-src",
+        "title": "ui-src",
+        "closed": true
+      },
+      {
+        "children": [],
+        "nodeid": "JMarkStevens/package.json",
+        "title": "package.json"
+      },
+      {
+        "children": [],
+        "nodeid": "JMarkStevens/webpack.config.js",
+        "title": "webpack.config.js"
+      },
+      {
+        "children": [],
+        "nodeid": "JMarkStevens/webpack.config.json",
+        "title": "webpack.config.json"
+      }
+    ],
+    "nodeid": "JMarkStevens",
+    "title": "JMarkStevens",
+    "closed": true
+  },
+  {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [],
+            "nodeid": "PalmList/__tests__/index.android.js",
+            "title": "index.android.js"
+          },
+          {
+            "children": [],
+            "nodeid": "PalmList/__tests__/index.ios.js",
+            "title": "index.ios.js"
+          }
+        ],
+        "nodeid": "PalmList/__tests__",
+        "title": "__tests__",
+        "closed": true
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "children": [
+                          {
+                            "children": [
+                              {
+                                "children": [
+                                  {
+                                    "children": [
+                                      {
+                                        "children": [],
+                                        "nodeid": "PalmList/android/app/build/intermediates/blame/res/debug/multi/values-af.json",
+                                        "title": "values-af.json"
+                                      },
+                                      {
+                                        "children": [],
+                                        "nodeid": "PalmList/android/app/build/intermediates/blame/res/debug/multi/values-am.json",
+                                        "title": "values-am.json"
+                                      },
+                                      {
+                                        "children": [],
+                                        "nodeid": "PalmList/android/app/build/intermediates/blame/res/debug/multi/values-ar.json",
+                                        "title": "values-ar.json"
+                                      },
+                                      {
+                                        "children": [],
+                                        "nodeid": "PalmList/android/app/build/intermediates/blame/res/debug/multi/values-az-rAZ.json",
+                                        "title": "values-az-rAZ.json"
+                                      },
+                                      {
+                                        "children": [],
+                                        "nodeid": "PalmList/android/app/build/intermediates/blame/res/debug/multi/values-bg.json",
+                                        "title": "values-bg.json"
+                                      },
+                                      {
+                                        "children": [],
+                                        "nodeid": "PalmList/android/app/build/intermediates/blame/res/debug/multi/values-bn-rBD.json",
+                                        "title": "values-bn-rBD.json"
+                                      },
+                                      {
+                                        "children": [],
+                                        "nodeid": "PalmList/android/app/build/intermediates/blame/res/debug/multi/values-ca.json",
+                                        "title": "values-ca.json"
+                                      },
+                                      {
+                                        "children": [],
+                                        "nodeid": "PalmList/android/app/build/intermediates/blame/res/debug/multi/values-cs.json",
+                                        "title": "values-cs.json"
+                                      },
+                                      {
+                                        "children": [],
+                                        "nodeid": "PalmList/android/app/build/intermediates/blame/res/debug/multi/values-da.json",
+                                        "title": "values-da.json"
+                                      },
+                                      {
+                                        "children": [],
+                                        "nodeid": "PalmList/android/app/build/intermediates/blame/res/debug/multi/values-de.json",
+                                        "title": "values-de.json"
+                                      },
+                                      {
+                                        "children": [],
+                                        "nodeid": "PalmList/android/app/build/intermediates/blame/res/debug/multi/values-el.json",
+                                        "title": "values-el.json"
+                                      },
+                                      {
+                                        "children": [],
+                                        "nodeid": "PalmList/android/app/build/intermediates/blame/res/debug/multi/values-en-rAU.json",
+                                        "title": "values-en-rAU.json"
+                                      },
+                                      {
+                                        "children": [],
+                                        "nodeid": "PalmList/android/app/build/intermediates/blame/res/debug/multi/values-en-rGB.json",
+                                        "title": "values-en-rGB.json"
+                                      },
+                                      {
+                                        "children": [],
+                                        "nodeid": "PalmList/android/app/build/intermediates/blame/res/debug/multi/values-en-rIN.json",
+                                        "title": "values-en-rIN.json"
+                                      },
+                                      {
+                                        "children": [],
+                                        "nodeid": "PalmList/android/app/build/intermediates/blame/res/debug/multi/values-es-rUS.json",
+                                        "title": "values-es-rUS.json"
+                                      },
+                                      {
+                                        "children": [],
+                                        "nodeid": "PalmList/android/app/build/intermediates/blame/res/debug/multi/values-es.json",
+                                        "title": "values-es.json"
+                                      },
+                                      {
+                                        "children": [],
+                                        "nodeid": "PalmList/android/app/build/intermediates/blame/res/debug/multi/values-et-rEE.json",
+                                        "title": "values-et-rEE.json"
+                                      },
+                                      {
+                                        "children": [],
+                                        "nodeid": "PalmList/android/app/build/intermediates/blame/res/debug/multi/values-eu-rES.json",
+                                        "title": "values-eu-rES.json"
+                                      },
+                                      {
+                                        "children": [],
+                                        "nodeid": "PalmList/android/app/build/intermediates/blame/res/debug/multi/values-fa.json",
+                                        "title": "values-fa.json"
+                                      },
+                                      {
+                                        "children": [],
+                                        "nodeid": "PalmList/android/app/build/intermediates/blame/res/debug/multi/values-fi.json",
+                                        "title": "values-fi.json"
+                                      },
+                                      {
+                                        "children": [],
+                                        "nodeid": "PalmList/android/app/build/intermediates/blame/res/debug/multi/values-fr-rCA.json",
+                                        "title": "values-fr-rCA.json"
+                                      },
+                                      {
+                                        "children": [],
+                                        "nodeid": "PalmList/android/app/build/intermediates/blame/res/debug/multi/values-fr.json",
+                                        "title": "values-fr.json"
+                                      },
+                                      {
+                                        "children": [],
+                                        "nodeid": "PalmList/android/app/build/intermediates/blame/res/debug/multi/values-gl-rES.json",
+                                        "title": "values-gl-rES.json"
+                                      },
+                                      {
+                                        "children": [],
+                                        "nodeid": "PalmList/android/app/build/intermediates/blame/res/debug/multi/values-gu-rIN.json",
+                                        "title": "values-gu-rIN.json"
+                                      },
+                                      {
+                                        "children": [],
+                                        "nodeid": "PalmList/android/app/build/intermediates/blame/res/debug/multi/values-h720dp-v13.json",
+                                        "title": "values-h720dp-v13.json"
+                                      },
+                                      {
+                                        "children": [],
+                                        "nodeid": "PalmList/android/app/build/intermediates/blame/res/debug/multi/values-hdpi-v4.json",
+                                        "title": "values-hdpi-v4.json"
+                                      },
+                                      {
+                                        "children": [],
+                                        "nodeid": "PalmList/android/app/build/intermediates/blame/res/debug/multi/values-hi.json",
+                                        "title": "values-hi.json"
+                                      },
+                                      {
+                                        "children": [],
+                                        "nodeid": "PalmList/android/app/build/intermediates/blame/res/debug/multi/values-hr.json",
+                                        "title": "values-hr.json"
+                                      },
+                                      {
+                                        "children": [],
+                                        "nodeid": "PalmList/android/app/build/intermediates/blame/res/debug/multi/values-hu.json",
+                                        "title": "values-hu.json"
+                                      },
+                                      {
+                                        "children": [],
+                                        "nodeid": "PalmList/android/app/build/intermediates/blame/res/debug/multi/values-hy-rAM.json",
+                                        "title": "values-hy-rAM.json"
+                                      },
+                                      {
+                                        "children": [],
+                                        "nodeid": "PalmList/android/app/build/intermediates/blame/res/debug/multi/values-in.json",
+                                        "title": "values-in.json"
+                                      },
+                                      {
+                                        "children": [],
+                                        "nodeid": "PalmList/android/app/build/intermediates/blame/res/debug/multi/values-is-rIS.json",
+                                        "title": "values-is-rIS.json"
+                                      },
+                                      {
+                                        "children": [],
+                                        "nodeid": "PalmList/android/app/build/intermediates/blame/res/debug/multi/values-it.json",
+                                        "title": "values-it.json"
+                                      },
+                                      {
+                                        "children": [],
+                                        "nodeid": "PalmList/android/app/build/intermediates/blame/res/debug/multi/values-iw.json",
+                                        "title": "values-iw.json"
+                                      },
+                                      {
+                                        "children": [],
+                                        "nodeid": "PalmList/android/app/build/intermediates/blame/res/debug/multi/values-ja.json",
+                                        "title": "values-ja.json"
+                                      },
+                                      {
+                                        "children": [],
+                                        "nodeid": "PalmList/android/app/build/intermediates/blame/res/debug/multi/values-ka-rGE.json",
+                                        "title": "values-ka-rGE.json"
+                                      },
+                                      {
+                                        "children": [],
+                                        "nodeid": "PalmList/android/app/build/intermediates/blame/res/debug/multi/values-kk-rKZ.json",
+                                        "title": "values-kk-rKZ.json"
+                                      },
+                                      {
+                                        "children": [],
+                                        "nodeid": "PalmList/android/app/build/intermediates/blame/res/debug/multi/values-km-rKH.json",
+                                        "title": "values-km-rKH.json"
+                                      },
+                                      {
+                                        "children": [],
+                                        "nodeid": "PalmList/android/app/build/intermediates/blame/res/debug/multi/values-kn-rIN.json",
+                                        "title": "values-kn-rIN.json"
+                                      },
+                                      {
+                                        "children": [],
+                                        "nodeid": "PalmList/android/app/build/intermediates/blame/res/debug/multi/values-ko.json",
+                                        "title": "values-ko.json"
+                                      },
+                                      {
+                                        "children": [],
+                                        "nodeid": "PalmList/android/app/build/intermediates/blame/res/debug/multi/values-ky-rKG.json",
+                                        "title": "values-ky-rKG.json"
+                                      },
+                                      {
+                                        "children": [],
+                                        "nodeid": "PalmList/android/app/build/intermediates/blame/res/debug/multi/values-land.json",
+                                        "title": "values-land.json"
+                                      },
+                                      {
+                                        "children": [],
+                                        "nodeid": "PalmList/android/app/build/intermediates/blame/res/debug/multi/values-large-v4.json",
+                                        "title": "values-large-v4.json"
+                                      },
+                                      {
+                                        "children": [],
+                                        "nodeid": "PalmList/android/app/build/intermediates/blame/res/debug/multi/values-lo-rLA.json",
+                                        "title": "values-lo-rLA.json"
+                                      },
+                                      {
+                                        "children": [],
+                                        "nodeid": "PalmList/android/app/build/intermediates/blame/res/debug/multi/values-lt.json",
+                                        "title": "values-lt.json"
+                                      },
+                                      {
+                                        "children": [],
+                                        "nodeid": "PalmList/android/app/build/intermediates/blame/res/debug/multi/values-lv.json",
+                                        "title": "values-lv.json"
+                                      },
+                                      {
+                                        "children": [],
+                                        "nodeid": "PalmList/android/app/build/intermediates/blame/res/debug/multi/values-mk-rMK.json",
+                                        "title": "values-mk-rMK.json"
+                                      },
+                                      {
+                                        "children": [],
+                                        "nodeid": "PalmList/android/app/build/intermediates/blame/res/debug/multi/values-ml-rIN.json",
+                                        "title": "values-ml-rIN.json"
+                                      },
+                                      {
+                                        "children": [],
+                                        "nodeid": "PalmList/android/app/build/intermediates/blame/res/debug/multi/values-mn-rMN.json",
+                                        "title": "values-mn-rMN.json"
+                                      },
+                                      {
+                                        "children": [],
+                                        "nodeid": "PalmList/android/app/build/intermediates/blame/res/debug/multi/values-mr-rIN.json",
+                                        "title": "values-mr-rIN.json"
+                                      },
+                                      {
+                                        "children": [],
+                                        "nodeid": "PalmList/android/app/build/intermediates/blame/res/debug/multi/values-ms-rMY.json",
+                                        "title": "values-ms-rMY.json"
+                                      },
+                                      {
+                                        "children": [],
+                                        "nodeid": "PalmList/android/app/build/intermediates/blame/res/debug/multi/values-my-rMM.json",
+                                        "title": "values-my-rMM.json"
+                                      },
+                                      {
+                                        "children": [],
+                                        "nodeid": "PalmList/android/app/build/intermediates/blame/res/debug/multi/values-nb.json",
+                                        "title": "values-nb.json"
+                                      },
+                                      {
+                                        "children": [],
+                                        "nodeid": "PalmList/android/app/build/intermediates/blame/res/debug/multi/values-ne-rNP.json",
+                                        "title": "values-ne-rNP.json"
+                                      },
+                                      {
+                                        "children": [],
+                                        "nodeid": "PalmList/android/app/build/intermediates/blame/res/debug/multi/values-nl.json",
+                                        "title": "values-nl.json"
+                                      },
+                                      {
+                                        "children": [],
+                                        "nodeid": "PalmList/android/app/build/intermediates/blame/res/debug/multi/values-pa-rIN.json",
+                                        "title": "values-pa-rIN.json"
+                                      },
+                                      {
+                                        "children": [],
+                                        "nodeid": "PalmList/android/app/build/intermediates/blame/res/debug/multi/values-pl.json",
+                                        "title": "values-pl.json"
+                                      },
+                                      {
+                                        "children": [],
+                                        "nodeid": "PalmList/android/app/build/intermediates/blame/res/debug/multi/values-port.json",
+                                        "title": "values-port.json"
+                                      },
+                                      {
+                                        "children": [],
+                                        "nodeid": "PalmList/android/app/build/intermediates/blame/res/debug/multi/values-pt-rPT.json",
+                                        "title": "values-pt-rPT.json"
+                                      },
+                                      {
+                                        "children": [],
+                                        "nodeid": "PalmList/android/app/build/intermediates/blame/res/debug/multi/values-pt.json",
+                                        "title": "values-pt.json"
+                                      },
+                                      {
+                                        "children": [],
+                                        "nodeid": "PalmList/android/app/build/intermediates/blame/res/debug/multi/values-ro.json",
+                                        "title": "values-ro.json"
+                                      },
+                                      {
+                                        "children": [],
+                                        "nodeid": "PalmList/android/app/build/intermediates/blame/res/debug/multi/values-ru.json",
+                                        "title": "values-ru.json"
+                                      },
+                                      {
+                                        "children": [],
+                                        "nodeid": "PalmList/android/app/build/intermediates/blame/res/debug/multi/values-si-rLK.json",
+                                        "title": "values-si-rLK.json"
+                                      },
+                                      {
+                                        "children": [],
+                                        "nodeid": "PalmList/android/app/build/intermediates/blame/res/debug/multi/values-sk.json",
+                                        "title": "values-sk.json"
+                                      },
+                                      {
+                                        "children": [],
+                                        "nodeid": "PalmList/android/app/build/intermediates/blame/res/debug/multi/values-sl.json",
+                                        "title": "values-sl.json"
+                                      },
+                                      {
+                                        "children": [],
+                                        "nodeid": "PalmList/android/app/build/intermediates/blame/res/debug/multi/values-sq-rAL.json",
+                                        "title": "values-sq-rAL.json"
+                                      },
+                                      {
+                                        "children": [],
+                                        "nodeid": "PalmList/android/app/build/intermediates/blame/res/debug/multi/values-sr.json",
+                                        "title": "values-sr.json"
+                                      },
+                                      {
+                                        "children": [],
+                                        "nodeid": "PalmList/android/app/build/intermediates/blame/res/debug/multi/values-sv.json",
+                                        "title": "values-sv.json"
+                                      },
+                                      {
+                                        "children": [],
+                                        "nodeid": "PalmList/android/app/build/intermediates/blame/res/debug/multi/values-sw.json",
+                                        "title": "values-sw.json"
+                                      },
+                                      {
+                                        "children": [],
+                                        "nodeid": "PalmList/android/app/build/intermediates/blame/res/debug/multi/values-sw600dp-v13.json",
+                                        "title": "values-sw600dp-v13.json"
+                                      },
+                                      {
+                                        "children": [],
+                                        "nodeid": "PalmList/android/app/build/intermediates/blame/res/debug/multi/values-ta-rIN.json",
+                                        "title": "values-ta-rIN.json"
+                                      },
+                                      {
+                                        "children": [],
+                                        "nodeid": "PalmList/android/app/build/intermediates/blame/res/debug/multi/values-te-rIN.json",
+                                        "title": "values-te-rIN.json"
+                                      },
+                                      {
+                                        "children": [],
+                                        "nodeid": "PalmList/android/app/build/intermediates/blame/res/debug/multi/values-th.json",
+                                        "title": "values-th.json"
+                                      },
+                                      {
+                                        "children": [],
+                                        "nodeid": "PalmList/android/app/build/intermediates/blame/res/debug/multi/values-tl.json",
+                                        "title": "values-tl.json"
+                                      },
+                                      {
+                                        "children": [],
+                                        "nodeid": "PalmList/android/app/build/intermediates/blame/res/debug/multi/values-tr.json",
+                                        "title": "values-tr.json"
+                                      },
+                                      {
+                                        "children": [],
+                                        "nodeid": "PalmList/android/app/build/intermediates/blame/res/debug/multi/values-uk.json",
+                                        "title": "values-uk.json"
+                                      },
+                                      {
+                                        "children": [],
+                                        "nodeid": "PalmList/android/app/build/intermediates/blame/res/debug/multi/values-ur-rPK.json",
+                                        "title": "values-ur-rPK.json"
+                                      },
+                                      {
+                                        "children": [],
+                                        "nodeid": "PalmList/android/app/build/intermediates/blame/res/debug/multi/values-uz-rUZ.json",
+                                        "title": "values-uz-rUZ.json"
+                                      },
+                                      {
+                                        "children": [],
+                                        "nodeid": "PalmList/android/app/build/intermediates/blame/res/debug/multi/values-v11.json",
+                                        "title": "values-v11.json"
+                                      },
+                                      {
+                                        "children": [],
+                                        "nodeid": "PalmList/android/app/build/intermediates/blame/res/debug/multi/values-v12.json",
+                                        "title": "values-v12.json"
+                                      },
+                                      {
+                                        "children": [],
+                                        "nodeid": "PalmList/android/app/build/intermediates/blame/res/debug/multi/values-v14.json",
+                                        "title": "values-v14.json"
+                                      },
+                                      {
+                                        "children": [],
+                                        "nodeid": "PalmList/android/app/build/intermediates/blame/res/debug/multi/values-v17.json",
+                                        "title": "values-v17.json"
+                                      },
+                                      {
+                                        "children": [],
+                                        "nodeid": "PalmList/android/app/build/intermediates/blame/res/debug/multi/values-v18.json",
+                                        "title": "values-v18.json"
+                                      },
+                                      {
+                                        "children": [],
+                                        "nodeid": "PalmList/android/app/build/intermediates/blame/res/debug/multi/values-v21.json",
+                                        "title": "values-v21.json"
+                                      },
+                                      {
+                                        "children": [],
+                                        "nodeid": "PalmList/android/app/build/intermediates/blame/res/debug/multi/values-v22.json",
+                                        "title": "values-v22.json"
+                                      },
+                                      {
+                                        "children": [],
+                                        "nodeid": "PalmList/android/app/build/intermediates/blame/res/debug/multi/values-v23.json",
+                                        "title": "values-v23.json"
+                                      },
+                                      {
+                                        "children": [],
+                                        "nodeid": "PalmList/android/app/build/intermediates/blame/res/debug/multi/values-vi.json",
+                                        "title": "values-vi.json"
+                                      },
+                                      {
+                                        "children": [],
+                                        "nodeid": "PalmList/android/app/build/intermediates/blame/res/debug/multi/values-w360dp-v13.json",
+                                        "title": "values-w360dp-v13.json"
+                                      },
+                                      {
+                                        "children": [],
+                                        "nodeid": "PalmList/android/app/build/intermediates/blame/res/debug/multi/values-w480dp-v13.json",
+                                        "title": "values-w480dp-v13.json"
+                                      },
+                                      {
+                                        "children": [],
+                                        "nodeid": "PalmList/android/app/build/intermediates/blame/res/debug/multi/values-w500dp-v13.json",
+                                        "title": "values-w500dp-v13.json"
+                                      },
+                                      {
+                                        "children": [],
+                                        "nodeid": "PalmList/android/app/build/intermediates/blame/res/debug/multi/values-w600dp-v13.json",
+                                        "title": "values-w600dp-v13.json"
+                                      },
+                                      {
+                                        "children": [],
+                                        "nodeid": "PalmList/android/app/build/intermediates/blame/res/debug/multi/values-w720dp-v13.json",
+                                        "title": "values-w720dp-v13.json"
+                                      },
+                                      {
+                                        "children": [],
+                                        "nodeid": "PalmList/android/app/build/intermediates/blame/res/debug/multi/values-xlarge-land-v4.json",
+                                        "title": "values-xlarge-land-v4.json"
+                                      },
+                                      {
+                                        "children": [],
+                                        "nodeid": "PalmList/android/app/build/intermediates/blame/res/debug/multi/values-xlarge-v4.json",
+                                        "title": "values-xlarge-v4.json"
+                                      },
+                                      {
+                                        "children": [],
+                                        "nodeid": "PalmList/android/app/build/intermediates/blame/res/debug/multi/values-zh-rCN.json",
+                                        "title": "values-zh-rCN.json"
+                                      },
+                                      {
+                                        "children": [],
+                                        "nodeid": "PalmList/android/app/build/intermediates/blame/res/debug/multi/values-zh-rHK.json",
+                                        "title": "values-zh-rHK.json"
+                                      },
+                                      {
+                                        "children": [],
+                                        "nodeid": "PalmList/android/app/build/intermediates/blame/res/debug/multi/values-zh-rTW.json",
+                                        "title": "values-zh-rTW.json"
+                                      },
+                                      {
+                                        "children": [],
+                                        "nodeid": "PalmList/android/app/build/intermediates/blame/res/debug/multi/values-zu.json",
+                                        "title": "values-zu.json"
+                                      },
+                                      {
+                                        "children": [],
+                                        "nodeid": "PalmList/android/app/build/intermediates/blame/res/debug/multi/values.json",
+                                        "title": "values.json"
+                                      }
+                                    ],
+                                    "nodeid": "PalmList/android/app/build/intermediates/blame/res/debug/multi",
+                                    "title": "multi",
+                                    "closed": true
+                                  },
+                                  {
+                                    "children": [
+                                      {
+                                        "children": [],
+                                        "nodeid": "PalmList/android/app/build/intermediates/blame/res/debug/single/anim.json",
+                                        "title": "anim.json"
+                                      },
+                                      {
+                                        "children": [],
+                                        "nodeid": "PalmList/android/app/build/intermediates/blame/res/debug/single/color-v11.json",
+                                        "title": "color-v11.json"
+                                      },
+                                      {
+                                        "children": [],
+                                        "nodeid": "PalmList/android/app/build/intermediates/blame/res/debug/single/color-v23.json",
+                                        "title": "color-v23.json"
+                                      },
+                                      {
+                                        "children": [],
+                                        "nodeid": "PalmList/android/app/build/intermediates/blame/res/debug/single/color.json",
+                                        "title": "color.json"
+                                      },
+                                      {
+                                        "children": [],
+                                        "nodeid": "PalmList/android/app/build/intermediates/blame/res/debug/single/drawable-hdpi.json",
+                                        "title": "drawable-hdpi.json"
+                                      },
+                                      {
+                                        "children": [],
+                                        "nodeid": "PalmList/android/app/build/intermediates/blame/res/debug/single/drawable-ldrtl-hdpi.json",
+                                        "title": "drawable-ldrtl-hdpi.json"
+                                      },
+                                      {
+                                        "children": [],
+                                        "nodeid": "PalmList/android/app/build/intermediates/blame/res/debug/single/drawable-ldrtl-mdpi.json",
+                                        "title": "drawable-ldrtl-mdpi.json"
+                                      },
+                                      {
+                                        "children": [],
+                                        "nodeid": "PalmList/android/app/build/intermediates/blame/res/debug/single/drawable-ldrtl-xhdpi.json",
+                                        "title": "drawable-ldrtl-xhdpi.json"
+                                      },
+                                      {
+                                        "children": [],
+                                        "nodeid": "PalmList/android/app/build/intermediates/blame/res/debug/single/drawable-ldrtl-xxhdpi.json",
+                                        "title": "drawable-ldrtl-xxhdpi.json"
+                                      },
+                                      {
+                                        "children": [],
+                                        "nodeid": "PalmList/android/app/build/intermediates/blame/res/debug/single/drawable-ldrtl-xxxhdpi.json",
+                                        "title": "drawable-ldrtl-xxxhdpi.json"
+                                      },
+                                      {
+                                        "children": [],
+                                        "nodeid": "PalmList/android/app/build/intermediates/blame/res/debug/single/drawable-mdpi.json",
+                                        "title": "drawable-mdpi.json"
+                                      },
+                                      {
+                                        "children": [],
+                                        "nodeid": "PalmList/android/app/build/intermediates/blame/res/debug/single/drawable-v21.json",
+                                        "title": "drawable-v21.json"
+                                      },
+                                      {
+                                        "children": [],
+                                        "nodeid": "PalmList/android/app/build/intermediates/blame/res/debug/single/drawable-v23.json",
+                                        "title": "drawable-v23.json"
+                                      },
+                                      {
+                                        "children": [],
+                                        "nodeid": "PalmList/android/app/build/intermediates/blame/res/debug/single/drawable-xhdpi.json",
+                                        "title": "drawable-xhdpi.json"
+                                      },
+                                      {
+                                        "children": [],
+                                        "nodeid": "PalmList/android/app/build/intermediates/blame/res/debug/single/drawable-xxhdpi.json",
+                                        "title": "drawable-xxhdpi.json"
+                                      },
+                                      {
+                                        "children": [],
+                                        "nodeid": "PalmList/android/app/build/intermediates/blame/res/debug/single/drawable-xxxhdpi.json",
+                                        "title": "drawable-xxxhdpi.json"
+                                      },
+                                      {
+                                        "children": [],
+                                        "nodeid": "PalmList/android/app/build/intermediates/blame/res/debug/single/drawable.json",
+                                        "title": "drawable.json"
+                                      },
+                                      {
+                                        "children": [],
+                                        "nodeid": "PalmList/android/app/build/intermediates/blame/res/debug/single/layout.json",
+                                        "title": "layout.json"
+                                      },
+                                      {
+                                        "children": [],
+                                        "nodeid": "PalmList/android/app/build/intermediates/blame/res/debug/single/mipmap-hdpi.json",
+                                        "title": "mipmap-hdpi.json"
+                                      },
+                                      {
+                                        "children": [],
+                                        "nodeid": "PalmList/android/app/build/intermediates/blame/res/debug/single/mipmap-mdpi.json",
+                                        "title": "mipmap-mdpi.json"
+                                      },
+                                      {
+                                        "children": [],
+                                        "nodeid": "PalmList/android/app/build/intermediates/blame/res/debug/single/mipmap-xhdpi.json",
+                                        "title": "mipmap-xhdpi.json"
+                                      },
+                                      {
+                                        "children": [],
+                                        "nodeid": "PalmList/android/app/build/intermediates/blame/res/debug/single/mipmap-xxhdpi.json",
+                                        "title": "mipmap-xxhdpi.json"
+                                      },
+                                      {
+                                        "children": [],
+                                        "nodeid": "PalmList/android/app/build/intermediates/blame/res/debug/single/xml.json",
+                                        "title": "xml.json"
+                                      }
+                                    ],
+                                    "nodeid": "PalmList/android/app/build/intermediates/blame/res/debug/single",
+                                    "title": "single",
+                                    "closed": true
+                                  }
+                                ],
+                                "nodeid": "PalmList/android/app/build/intermediates/blame/res/debug",
+                                "title": "debug",
+                                "closed": true
+                              }
+                            ],
+                            "nodeid": "PalmList/android/app/build/intermediates/blame/res",
+                            "title": "res",
+                            "closed": true
+                          }
+                        ],
+                        "nodeid": "PalmList/android/app/build/intermediates/blame",
+                        "title": "blame",
+                        "closed": true
+                      }
+                    ],
+                    "nodeid": "PalmList/android/app/build/intermediates",
+                    "title": "intermediates",
+                    "closed": true
+                  }
+                ],
+                "nodeid": "PalmList/android/app/build",
+                "title": "build",
+                "closed": true
+              }
+            ],
+            "nodeid": "PalmList/android/app",
+            "title": "app",
+            "closed": true
+          }
+        ],
+        "nodeid": "PalmList/android",
+        "title": "android",
+        "closed": true
+      },
+      {
+        "children": [
+          {
+            "children": [],
+            "nodeid": "PalmList/data/genuslist.json",
+            "title": "genuslist.json"
+          },
+          {
+            "children": [],
+            "nodeid": "PalmList/data/indexlist.json",
+            "title": "indexlist.json"
+          },
+          {
+            "children": [],
+            "nodeid": "PalmList/data/specieslist.json",
+            "title": "specieslist.json"
+          }
+        ],
+        "nodeid": "PalmList/data",
+        "title": "data",
+        "closed": true
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "children": [],
+                        "nodeid": "PalmList/ios/PalmList/Images.xcassets/AppIcon.appiconset/Contents.json",
+                        "title": "Contents.json"
+                      }
+                    ],
+                    "nodeid": "PalmList/ios/PalmList/Images.xcassets/AppIcon.appiconset",
+                    "title": "AppIcon.appiconset",
+                    "closed": true
+                  }
+                ],
+                "nodeid": "PalmList/ios/PalmList/Images.xcassets",
+                "title": "Images.xcassets",
+                "closed": true
+              }
+            ],
+            "nodeid": "PalmList/ios/PalmList",
+            "title": "PalmList",
+            "closed": true
+          }
+        ],
+        "nodeid": "PalmList/ios",
+        "title": "ios",
+        "closed": true
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "children": [],
+                "nodeid": "PalmList/js/admin/indexList.js",
+                "title": "indexList.js"
+              }
+            ],
+            "nodeid": "PalmList/js/admin",
+            "title": "admin",
+            "closed": true
+          },
+          {
+            "children": [
+              {
+                "children": [],
+                "nodeid": "PalmList/js/routes/getjsondata.js",
+                "title": "getjsondata.js"
+              }
+            ],
+            "nodeid": "PalmList/js/routes",
+            "title": "routes",
+            "closed": true
+          },
+          {
+            "children": [],
+            "nodeid": "PalmList/js/routes.js",
+            "title": "routes.js"
+          },
+          {
+            "children": [],
+            "nodeid": "PalmList/js/server.js",
+            "title": "server.js"
+          }
+        ],
+        "nodeid": "PalmList/js",
+        "title": "js",
+        "closed": true
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [],
+                    "nodeid": "PalmList/ui-src/components/pages/data.page.js",
+                    "title": "data.page.js"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "PalmList/ui-src/components/pages/index.page.js",
+                    "title": "index.page.js"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "PalmList/ui-src/components/pages/webview.page.js",
+                    "title": "webview.page.js"
+                  }
+                ],
+                "nodeid": "PalmList/ui-src/components/pages",
+                "title": "pages",
+                "closed": true
+              },
+              {
+                "children": [],
+                "nodeid": "PalmList/ui-src/components/app.ctrl.js",
+                "title": "app.ctrl.js"
+              }
+            ],
+            "nodeid": "PalmList/ui-src/components",
+            "title": "components",
+            "closed": true
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [],
+                    "nodeid": "PalmList/ui-src/store/app/app.actions.js",
+                    "title": "app.actions.js"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "PalmList/ui-src/store/app/app.reducer.js",
+                    "title": "app.reducer.js"
+                  }
+                ],
+                "nodeid": "PalmList/ui-src/store/app",
+                "title": "app",
+                "closed": true
+              },
+              {
+                "children": [
+                  {
+                    "children": [],
+                    "nodeid": "PalmList/ui-src/store/info/info.actions.js",
+                    "title": "info.actions.js"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "PalmList/ui-src/store/info/info.reducer.js",
+                    "title": "info.reducer.js"
+                  }
+                ],
+                "nodeid": "PalmList/ui-src/store/info",
+                "title": "info",
+                "closed": true
+              },
+              {
+                "children": [],
+                "nodeid": "PalmList/ui-src/store/App.Store.js",
+                "title": "App.Store.js"
+              },
+              {
+                "children": [],
+                "nodeid": "PalmList/ui-src/store/api.Actions.js",
+                "title": "api.Actions.js"
+              }
+            ],
+            "nodeid": "PalmList/ui-src/store",
+            "title": "store",
+            "closed": true
+          },
+          {
+            "children": [],
+            "nodeid": "PalmList/ui-src/app.js",
+            "title": "app.js"
+          }
+        ],
+        "nodeid": "PalmList/ui-src",
+        "title": "ui-src",
+        "closed": true
+      },
+      {
+        "children": [],
+        "nodeid": "PalmList/app.json",
+        "title": "app.json"
+      },
+      {
+        "children": [],
+        "nodeid": "PalmList/index.android.js",
+        "title": "index.android.js"
+      },
+      {
+        "children": [],
+        "nodeid": "PalmList/index.ios.js",
+        "title": "index.ios.js"
+      },
+      {
+        "children": [],
+        "nodeid": "PalmList/package.json",
+        "title": "package.json"
+      }
+    ],
+    "nodeid": "PalmList",
+    "title": "PalmList",
+    "closed": true
+  },
+  {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [],
+            "nodeid": "bitcore-lib/benchmark/block-357238.json",
+            "title": "block-357238.json"
+          },
+          {
+            "children": [],
+            "nodeid": "bitcore-lib/benchmark/package.json",
+            "title": "package.json"
+          },
+          {
+            "children": [],
+            "nodeid": "bitcore-lib/benchmark/script.js",
+            "title": "script.js"
+          },
+          {
+            "children": [],
+            "nodeid": "bitcore-lib/benchmark/serialization.js",
+            "title": "serialization.js"
+          }
+        ],
+        "nodeid": "bitcore-lib/benchmark",
+        "title": "benchmark",
+        "closed": true
+      },
+      {
+        "children": [
+          {
+            "children": [],
+            "nodeid": "bitcore-lib/docs/address.md",
+            "title": "address.md"
+          },
+          {
+            "children": [],
+            "nodeid": "bitcore-lib/docs/block.md",
+            "title": "block.md"
+          },
+          {
+            "children": [],
+            "nodeid": "bitcore-lib/docs/browser.md",
+            "title": "browser.md"
+          },
+          {
+            "children": [],
+            "nodeid": "bitcore-lib/docs/crypto.md",
+            "title": "crypto.md"
+          },
+          {
+            "children": [],
+            "nodeid": "bitcore-lib/docs/encoding.md",
+            "title": "encoding.md"
+          },
+          {
+            "children": [],
+            "nodeid": "bitcore-lib/docs/examples.md",
+            "title": "examples.md"
+          },
+          {
+            "children": [],
+            "nodeid": "bitcore-lib/docs/hierarchical.md",
+            "title": "hierarchical.md"
+          },
+          {
+            "children": [],
+            "nodeid": "bitcore-lib/docs/index.md",
+            "title": "index.md"
+          },
+          {
+            "children": [],
+            "nodeid": "bitcore-lib/docs/networks.md",
+            "title": "networks.md"
+          },
+          {
+            "children": [],
+            "nodeid": "bitcore-lib/docs/privatekey.md",
+            "title": "privatekey.md"
+          },
+          {
+            "children": [],
+            "nodeid": "bitcore-lib/docs/publickey.md",
+            "title": "publickey.md"
+          },
+          {
+            "children": [],
+            "nodeid": "bitcore-lib/docs/script.md",
+            "title": "script.md"
+          },
+          {
+            "children": [],
+            "nodeid": "bitcore-lib/docs/transaction.md",
+            "title": "transaction.md"
+          },
+          {
+            "children": [],
+            "nodeid": "bitcore-lib/docs/unit.md",
+            "title": "unit.md"
+          },
+          {
+            "children": [],
+            "nodeid": "bitcore-lib/docs/unspentoutput.md",
+            "title": "unspentoutput.md"
+          },
+          {
+            "children": [],
+            "nodeid": "bitcore-lib/docs/uri.md",
+            "title": "uri.md"
+          }
+        ],
+        "nodeid": "bitcore-lib/docs",
+        "title": "docs",
+        "closed": true
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "children": [],
+                "nodeid": "bitcore-lib/lib/block/block.js",
+                "title": "block.js"
+              },
+              {
+                "children": [],
+                "nodeid": "bitcore-lib/lib/block/blockheader.js",
+                "title": "blockheader.js"
+              },
+              {
+                "children": [],
+                "nodeid": "bitcore-lib/lib/block/index.js",
+                "title": "index.js"
+              },
+              {
+                "children": [],
+                "nodeid": "bitcore-lib/lib/block/merkleblock.js",
+                "title": "merkleblock.js"
+              }
+            ],
+            "nodeid": "bitcore-lib/lib/block",
+            "title": "block",
+            "closed": true
+          },
+          {
+            "children": [
+              {
+                "children": [],
+                "nodeid": "bitcore-lib/lib/crypto/bn.js",
+                "title": "bn.js"
+              },
+              {
+                "children": [],
+                "nodeid": "bitcore-lib/lib/crypto/ecdsa.js",
+                "title": "ecdsa.js"
+              },
+              {
+                "children": [],
+                "nodeid": "bitcore-lib/lib/crypto/hash.js",
+                "title": "hash.js"
+              },
+              {
+                "children": [],
+                "nodeid": "bitcore-lib/lib/crypto/point.js",
+                "title": "point.js"
+              },
+              {
+                "children": [],
+                "nodeid": "bitcore-lib/lib/crypto/random.js",
+                "title": "random.js"
+              },
+              {
+                "children": [],
+                "nodeid": "bitcore-lib/lib/crypto/signature.js",
+                "title": "signature.js"
+              }
+            ],
+            "nodeid": "bitcore-lib/lib/crypto",
+            "title": "crypto",
+            "closed": true
+          },
+          {
+            "children": [
+              {
+                "children": [],
+                "nodeid": "bitcore-lib/lib/encoding/base58.js",
+                "title": "base58.js"
+              },
+              {
+                "children": [],
+                "nodeid": "bitcore-lib/lib/encoding/base58check.js",
+                "title": "base58check.js"
+              },
+              {
+                "children": [],
+                "nodeid": "bitcore-lib/lib/encoding/bufferreader.js",
+                "title": "bufferreader.js"
+              },
+              {
+                "children": [],
+                "nodeid": "bitcore-lib/lib/encoding/bufferwriter.js",
+                "title": "bufferwriter.js"
+              },
+              {
+                "children": [],
+                "nodeid": "bitcore-lib/lib/encoding/varint.js",
+                "title": "varint.js"
+              }
+            ],
+            "nodeid": "bitcore-lib/lib/encoding",
+            "title": "encoding",
+            "closed": true
+          },
+          {
+            "children": [
+              {
+                "children": [],
+                "nodeid": "bitcore-lib/lib/errors/index.js",
+                "title": "index.js"
+              },
+              {
+                "children": [],
+                "nodeid": "bitcore-lib/lib/errors/spec.js",
+                "title": "spec.js"
+              }
+            ],
+            "nodeid": "bitcore-lib/lib/errors",
+            "title": "errors",
+            "closed": true
+          },
+          {
+            "children": [
+              {
+                "children": [],
+                "nodeid": "bitcore-lib/lib/script/index.js",
+                "title": "index.js"
+              },
+              {
+                "children": [],
+                "nodeid": "bitcore-lib/lib/script/interpreter.js",
+                "title": "interpreter.js"
+              },
+              {
+                "children": [],
+                "nodeid": "bitcore-lib/lib/script/script.js",
+                "title": "script.js"
+              }
+            ],
+            "nodeid": "bitcore-lib/lib/script",
+            "title": "script",
+            "closed": true
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [],
+                    "nodeid": "bitcore-lib/lib/transaction/input/index.js",
+                    "title": "index.js"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "bitcore-lib/lib/transaction/input/input.js",
+                    "title": "input.js"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "bitcore-lib/lib/transaction/input/multisig.js",
+                    "title": "multisig.js"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "bitcore-lib/lib/transaction/input/multisigscripthash.js",
+                    "title": "multisigscripthash.js"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "bitcore-lib/lib/transaction/input/publickey.js",
+                    "title": "publickey.js"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "bitcore-lib/lib/transaction/input/publickeyhash.js",
+                    "title": "publickeyhash.js"
+                  }
+                ],
+                "nodeid": "bitcore-lib/lib/transaction/input",
+                "title": "input",
+                "closed": true
+              },
+              {
+                "children": [],
+                "nodeid": "bitcore-lib/lib/transaction/index.js",
+                "title": "index.js"
+              },
+              {
+                "children": [],
+                "nodeid": "bitcore-lib/lib/transaction/output.js",
+                "title": "output.js"
+              },
+              {
+                "children": [],
+                "nodeid": "bitcore-lib/lib/transaction/sighash.js",
+                "title": "sighash.js"
+              },
+              {
+                "children": [],
+                "nodeid": "bitcore-lib/lib/transaction/signature.js",
+                "title": "signature.js"
+              },
+              {
+                "children": [],
+                "nodeid": "bitcore-lib/lib/transaction/transaction.js",
+                "title": "transaction.js"
+              },
+              {
+                "children": [],
+                "nodeid": "bitcore-lib/lib/transaction/unspentoutput.js",
+                "title": "unspentoutput.js"
+              }
+            ],
+            "nodeid": "bitcore-lib/lib/transaction",
+            "title": "transaction",
+            "closed": true
+          },
+          {
+            "children": [
+              {
+                "children": [],
+                "nodeid": "bitcore-lib/lib/util/buffer.js",
+                "title": "buffer.js"
+              },
+              {
+                "children": [],
+                "nodeid": "bitcore-lib/lib/util/js.js",
+                "title": "js.js"
+              },
+              {
+                "children": [],
+                "nodeid": "bitcore-lib/lib/util/preconditions.js",
+                "title": "preconditions.js"
+              }
+            ],
+            "nodeid": "bitcore-lib/lib/util",
+            "title": "util",
+            "closed": true
+          },
+          {
+            "children": [],
+            "nodeid": "bitcore-lib/lib/address.js",
+            "title": "address.js"
+          },
+          {
+            "children": [],
+            "nodeid": "bitcore-lib/lib/hdprivatekey.js",
+            "title": "hdprivatekey.js"
+          },
+          {
+            "children": [],
+            "nodeid": "bitcore-lib/lib/hdpublickey.js",
+            "title": "hdpublickey.js"
+          },
+          {
+            "children": [],
+            "nodeid": "bitcore-lib/lib/networks.js",
+            "title": "networks.js"
+          },
+          {
+            "children": [],
+            "nodeid": "bitcore-lib/lib/opcode.js",
+            "title": "opcode.js"
+          },
+          {
+            "children": [],
+            "nodeid": "bitcore-lib/lib/privatekey.js",
+            "title": "privatekey.js"
+          },
+          {
+            "children": [],
+            "nodeid": "bitcore-lib/lib/publickey.js",
+            "title": "publickey.js"
+          },
+          {
+            "children": [],
+            "nodeid": "bitcore-lib/lib/unit.js",
+            "title": "unit.js"
+          },
+          {
+            "children": [],
+            "nodeid": "bitcore-lib/lib/uri.js",
+            "title": "uri.js"
+          }
+        ],
+        "nodeid": "bitcore-lib/lib",
+        "title": "lib",
+        "closed": true
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "children": [],
+                "nodeid": "bitcore-lib/test/block/block.js",
+                "title": "block.js"
+              },
+              {
+                "children": [],
+                "nodeid": "bitcore-lib/test/block/blockheader.js",
+                "title": "blockheader.js"
+              },
+              {
+                "children": [],
+                "nodeid": "bitcore-lib/test/block/merkleblock.js",
+                "title": "merkleblock.js"
+              }
+            ],
+            "nodeid": "bitcore-lib/test/block",
+            "title": "block",
+            "closed": true
+          },
+          {
+            "children": [
+              {
+                "children": [],
+                "nodeid": "bitcore-lib/test/crypto/bn.js",
+                "title": "bn.js"
+              },
+              {
+                "children": [],
+                "nodeid": "bitcore-lib/test/crypto/ecdsa.js",
+                "title": "ecdsa.js"
+              },
+              {
+                "children": [],
+                "nodeid": "bitcore-lib/test/crypto/hash.js",
+                "title": "hash.js"
+              },
+              {
+                "children": [],
+                "nodeid": "bitcore-lib/test/crypto/point.js",
+                "title": "point.js"
+              },
+              {
+                "children": [],
+                "nodeid": "bitcore-lib/test/crypto/random.js",
+                "title": "random.js"
+              },
+              {
+                "children": [],
+                "nodeid": "bitcore-lib/test/crypto/signature.js",
+                "title": "signature.js"
+              }
+            ],
+            "nodeid": "bitcore-lib/test/crypto",
+            "title": "crypto",
+            "closed": true
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [],
+                    "nodeid": "bitcore-lib/test/data/bitcoind/base58_keys_invalid.json",
+                    "title": "base58_keys_invalid.json"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "bitcore-lib/test/data/bitcoind/base58_keys_valid.json",
+                    "title": "base58_keys_valid.json"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "bitcore-lib/test/data/bitcoind/blocks.json",
+                    "title": "blocks.json"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "bitcore-lib/test/data/bitcoind/script_invalid.json",
+                    "title": "script_invalid.json"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "bitcore-lib/test/data/bitcoind/script_valid.json",
+                    "title": "script_valid.json"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "bitcore-lib/test/data/bitcoind/sig_canonical.json",
+                    "title": "sig_canonical.json"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "bitcore-lib/test/data/bitcoind/sig_noncanonical.json",
+                    "title": "sig_noncanonical.json"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "bitcore-lib/test/data/bitcoind/tx_invalid.json",
+                    "title": "tx_invalid.json"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "bitcore-lib/test/data/bitcoind/tx_valid.json",
+                    "title": "tx_valid.json"
+                  }
+                ],
+                "nodeid": "bitcore-lib/test/data/bitcoind",
+                "title": "bitcoind",
+                "closed": true
+              },
+              {
+                "children": [],
+                "nodeid": "bitcore-lib/test/data/bip69.json",
+                "title": "bip69.json"
+              },
+              {
+                "children": [],
+                "nodeid": "bitcore-lib/test/data/blk86756-testnet.js",
+                "title": "blk86756-testnet.js"
+              },
+              {
+                "children": [],
+                "nodeid": "bitcore-lib/test/data/blk86756-testnet.json",
+                "title": "blk86756-testnet.json"
+              },
+              {
+                "children": [],
+                "nodeid": "bitcore-lib/test/data/ecdsa.json",
+                "title": "ecdsa.json"
+              },
+              {
+                "children": [],
+                "nodeid": "bitcore-lib/test/data/merkleblocks.js",
+                "title": "merkleblocks.js"
+              },
+              {
+                "children": [],
+                "nodeid": "bitcore-lib/test/data/messages.json",
+                "title": "messages.json"
+              },
+              {
+                "children": [],
+                "nodeid": "bitcore-lib/test/data/sighash.json",
+                "title": "sighash.json"
+              },
+              {
+                "children": [],
+                "nodeid": "bitcore-lib/test/data/tx_creation.json",
+                "title": "tx_creation.json"
+              }
+            ],
+            "nodeid": "bitcore-lib/test/data",
+            "title": "data",
+            "closed": true
+          },
+          {
+            "children": [
+              {
+                "children": [],
+                "nodeid": "bitcore-lib/test/encoding/base58.js",
+                "title": "base58.js"
+              },
+              {
+                "children": [],
+                "nodeid": "bitcore-lib/test/encoding/base58check.js",
+                "title": "base58check.js"
+              },
+              {
+                "children": [],
+                "nodeid": "bitcore-lib/test/encoding/bufferreader.js",
+                "title": "bufferreader.js"
+              },
+              {
+                "children": [],
+                "nodeid": "bitcore-lib/test/encoding/bufferwriter.js",
+                "title": "bufferwriter.js"
+              },
+              {
+                "children": [],
+                "nodeid": "bitcore-lib/test/encoding/varint.js",
+                "title": "varint.js"
+              }
+            ],
+            "nodeid": "bitcore-lib/test/encoding",
+            "title": "encoding",
+            "closed": true
+          },
+          {
+            "children": [
+              {
+                "children": [],
+                "nodeid": "bitcore-lib/test/script/interpreter.js",
+                "title": "interpreter.js"
+              },
+              {
+                "children": [],
+                "nodeid": "bitcore-lib/test/script/script.js",
+                "title": "script.js"
+              }
+            ],
+            "nodeid": "bitcore-lib/test/script",
+            "title": "script",
+            "closed": true
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [],
+                    "nodeid": "bitcore-lib/test/transaction/input/input.js",
+                    "title": "input.js"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "bitcore-lib/test/transaction/input/multisig.js",
+                    "title": "multisig.js"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "bitcore-lib/test/transaction/input/multisigscripthash.js",
+                    "title": "multisigscripthash.js"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "bitcore-lib/test/transaction/input/publickey.js",
+                    "title": "publickey.js"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "bitcore-lib/test/transaction/input/publickeyhash.js",
+                    "title": "publickeyhash.js"
+                  }
+                ],
+                "nodeid": "bitcore-lib/test/transaction/input",
+                "title": "input",
+                "closed": true
+              },
+              {
+                "children": [],
+                "nodeid": "bitcore-lib/test/transaction/deserialize.js",
+                "title": "deserialize.js"
+              },
+              {
+                "children": [],
+                "nodeid": "bitcore-lib/test/transaction/output.js",
+                "title": "output.js"
+              },
+              {
+                "children": [],
+                "nodeid": "bitcore-lib/test/transaction/sighash.js",
+                "title": "sighash.js"
+              },
+              {
+                "children": [],
+                "nodeid": "bitcore-lib/test/transaction/signature.js",
+                "title": "signature.js"
+              },
+              {
+                "children": [],
+                "nodeid": "bitcore-lib/test/transaction/transaction.js",
+                "title": "transaction.js"
+              },
+              {
+                "children": [],
+                "nodeid": "bitcore-lib/test/transaction/unspentoutput.js",
+                "title": "unspentoutput.js"
+              }
+            ],
+            "nodeid": "bitcore-lib/test/transaction",
+            "title": "transaction",
+            "closed": true
+          },
+          {
+            "children": [
+              {
+                "children": [],
+                "nodeid": "bitcore-lib/test/util/buffer.js",
+                "title": "buffer.js"
+              },
+              {
+                "children": [],
+                "nodeid": "bitcore-lib/test/util/js.js",
+                "title": "js.js"
+              },
+              {
+                "children": [],
+                "nodeid": "bitcore-lib/test/util/preconditions.js",
+                "title": "preconditions.js"
+              }
+            ],
+            "nodeid": "bitcore-lib/test/util",
+            "title": "util",
+            "closed": true
+          },
+          {
+            "children": [],
+            "nodeid": "bitcore-lib/test/address.js",
+            "title": "address.js"
+          },
+          {
+            "children": [],
+            "nodeid": "bitcore-lib/test/docs.js",
+            "title": "docs.js"
+          },
+          {
+            "children": [],
+            "nodeid": "bitcore-lib/test/hdkeys.js",
+            "title": "hdkeys.js"
+          },
+          {
+            "children": [],
+            "nodeid": "bitcore-lib/test/hdprivatekey.js",
+            "title": "hdprivatekey.js"
+          },
+          {
+            "children": [],
+            "nodeid": "bitcore-lib/test/hdpublickey.js",
+            "title": "hdpublickey.js"
+          },
+          {
+            "children": [],
+            "nodeid": "bitcore-lib/test/index.html",
+            "title": "index.html"
+          },
+          {
+            "children": [],
+            "nodeid": "bitcore-lib/test/index.js",
+            "title": "index.js"
+          },
+          {
+            "children": [],
+            "nodeid": "bitcore-lib/test/networks.js",
+            "title": "networks.js"
+          },
+          {
+            "children": [],
+            "nodeid": "bitcore-lib/test/opcode.js",
+            "title": "opcode.js"
+          },
+          {
+            "children": [],
+            "nodeid": "bitcore-lib/test/privatekey.js",
+            "title": "privatekey.js"
+          },
+          {
+            "children": [],
+            "nodeid": "bitcore-lib/test/publickey.js",
+            "title": "publickey.js"
+          },
+          {
+            "children": [],
+            "nodeid": "bitcore-lib/test/unit.js",
+            "title": "unit.js"
+          },
+          {
+            "children": [],
+            "nodeid": "bitcore-lib/test/uri.js",
+            "title": "uri.js"
+          }
+        ],
+        "nodeid": "bitcore-lib/test",
+        "title": "test",
+        "closed": true
+      },
+      {
+        "children": [],
+        "nodeid": "bitcore-lib/CONTRIBUTING.md",
+        "title": "CONTRIBUTING.md"
+      },
+      {
+        "children": [],
+        "nodeid": "bitcore-lib/README.md",
+        "title": "README.md"
+      },
+      {
+        "children": [],
+        "nodeid": "bitcore-lib/bitcore-lib.js",
+        "title": "bitcore-lib.js"
+      },
+      {
+        "children": [],
+        "nodeid": "bitcore-lib/bower.json",
+        "title": "bower.json"
+      },
+      {
+        "children": [],
+        "nodeid": "bitcore-lib/gulpfile.js",
+        "title": "gulpfile.js"
+      },
+      {
+        "children": [],
+        "nodeid": "bitcore-lib/index.js",
+        "title": "index.js"
+      },
+      {
+        "children": [],
+        "nodeid": "bitcore-lib/karma.conf.js",
+        "title": "karma.conf.js"
+      },
+      {
+        "children": [],
+        "nodeid": "bitcore-lib/npm-shrinkwrap.json",
+        "title": "npm-shrinkwrap.json"
+      },
+      {
+        "children": [],
+        "nodeid": "bitcore-lib/package.json",
+        "title": "package.json"
+      }
+    ],
+    "nodeid": "bitcore-lib",
+    "title": "bitcore-lib",
+    "closed": true
+  },
+  {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [],
+            "nodeid": "ngClippets/data/SnipData.json",
+            "title": "SnipData.json"
+          },
+          {
+            "children": [],
+            "nodeid": "ngClippets/data/TreeData.json",
+            "title": "TreeData.json"
+          },
+          {
+            "children": [],
+            "nodeid": "ngClippets/data/TreeDataState.json",
+            "title": "TreeDataState.json"
+          },
+          {
+            "children": [],
+            "nodeid": "ngClippets/data/windowstate.json",
+            "title": "windowstate.json"
+          }
+        ],
+        "nodeid": "ngClippets/data",
+        "title": "data",
+        "closed": true
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "children": [],
+                "nodeid": "ngClippets/js/getset/GetSetJson.js",
+                "title": "GetSetJson.js"
+              }
+            ],
+            "nodeid": "ngClippets/js/getset",
+            "title": "getset",
+            "closed": true
+          },
+          {
+            "children": [],
+            "nodeid": "ngClippets/js/mainipc.js",
+            "title": "mainipc.js"
+          }
+        ],
+        "nodeid": "ngClippets/js",
+        "title": "js",
+        "closed": true
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [],
+                    "nodeid": "ngClippets/ui-src/common/Button/jms-button.css",
+                    "title": "jms-button.css"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "ngClippets/ui-src/common/Button/jms-button.html",
+                    "title": "jms-button.html"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "ngClippets/ui-src/common/Button/jms-button.js",
+                    "title": "jms-button.js"
+                  }
+                ],
+                "nodeid": "ngClippets/ui-src/common/Button",
+                "title": "Button",
+                "closed": true
+              },
+              {
+                "children": [
+                  {
+                    "children": [],
+                    "nodeid": "ngClippets/ui-src/common/Input/jms-input.css",
+                    "title": "jms-input.css"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "ngClippets/ui-src/common/Input/jms-input.html",
+                    "title": "jms-input.html"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "ngClippets/ui-src/common/Input/jms-input.js",
+                    "title": "jms-input.js"
+                  }
+                ],
+                "nodeid": "ngClippets/ui-src/common/Input",
+                "title": "Input",
+                "closed": true
+              },
+              {
+                "children": [
+                  {
+                    "children": [],
+                    "nodeid": "ngClippets/ui-src/common/TreeView/jms-tree-view.css",
+                    "title": "jms-tree-view.css"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "ngClippets/ui-src/common/TreeView/jms-tree-view.html",
+                    "title": "jms-tree-view.html"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "ngClippets/ui-src/common/TreeView/jms-tree-view.js",
+                    "title": "jms-tree-view.js"
+                  }
+                ],
+                "nodeid": "ngClippets/ui-src/common/TreeView",
+                "title": "TreeView",
+                "closed": true
+              },
+              {
+                "children": [],
+                "nodeid": "ngClippets/ui-src/common/common.declarations.js",
+                "title": "common.declarations.js"
+              },
+              {
+                "children": [],
+                "nodeid": "ngClippets/ui-src/common/common.module.js",
+                "title": "common.module.js"
+              }
+            ],
+            "nodeid": "ngClippets/ui-src/common",
+            "title": "common",
+            "closed": true
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "children": [],
+                        "nodeid": "ngClippets/ui-src/components/SnipView/actions/sv-action.data.js",
+                        "title": "sv-action.data.js"
+                      },
+                      {
+                        "children": [],
+                        "nodeid": "ngClippets/ui-src/components/SnipView/actions/sv-actions.css",
+                        "title": "sv-actions.css"
+                      },
+                      {
+                        "children": [],
+                        "nodeid": "ngClippets/ui-src/components/SnipView/actions/sv-actions.html",
+                        "title": "sv-actions.html"
+                      },
+                      {
+                        "children": [],
+                        "nodeid": "ngClippets/ui-src/components/SnipView/actions/sv-actions.js",
+                        "title": "sv-actions.js"
+                      }
+                    ],
+                    "nodeid": "ngClippets/ui-src/components/SnipView/actions",
+                    "title": "actions",
+                    "closed": true
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "ngClippets/ui-src/components/SnipView/snip-view.css",
+                    "title": "snip-view.css"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "ngClippets/ui-src/components/SnipView/snip-view.html",
+                    "title": "snip-view.html"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "ngClippets/ui-src/components/SnipView/snip-view.js",
+                    "title": "snip-view.js"
+                  }
+                ],
+                "nodeid": "ngClippets/ui-src/components/SnipView",
+                "title": "SnipView",
+                "closed": true
+              },
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "children": [],
+                        "nodeid": "ngClippets/ui-src/components/TreeView/actions/tv-action.data.js",
+                        "title": "tv-action.data.js"
+                      },
+                      {
+                        "children": [],
+                        "nodeid": "ngClippets/ui-src/components/TreeView/actions/tv-actions.css",
+                        "title": "tv-actions.css"
+                      },
+                      {
+                        "children": [],
+                        "nodeid": "ngClippets/ui-src/components/TreeView/actions/tv-actions.html",
+                        "title": "tv-actions.html"
+                      },
+                      {
+                        "children": [],
+                        "nodeid": "ngClippets/ui-src/components/TreeView/actions/tv-actions.js",
+                        "title": "tv-actions.js"
+                      }
+                    ],
+                    "nodeid": "ngClippets/ui-src/components/TreeView/actions",
+                    "title": "actions",
+                    "closed": true
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "ngClippets/ui-src/components/TreeView/tree-view.css",
+                    "title": "tree-view.css"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "ngClippets/ui-src/components/TreeView/tree-view.html",
+                    "title": "tree-view.html"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "ngClippets/ui-src/components/TreeView/tree-view.js",
+                    "title": "tree-view.js"
+                  }
+                ],
+                "nodeid": "ngClippets/ui-src/components/TreeView",
+                "title": "TreeView",
+                "closed": true
+              },
+              {
+                "children": [],
+                "nodeid": "ngClippets/ui-src/components/app-component.css",
+                "title": "app-component.css"
+              },
+              {
+                "children": [],
+                "nodeid": "ngClippets/ui-src/components/app-component.html",
+                "title": "app-component.html"
+              },
+              {
+                "children": [],
+                "nodeid": "ngClippets/ui-src/components/app-component.js",
+                "title": "app-component.js"
+              },
+              {
+                "children": [],
+                "nodeid": "ngClippets/ui-src/components/app.declarations.js",
+                "title": "app.declarations.js"
+              }
+            ],
+            "nodeid": "ngClippets/ui-src/components",
+            "title": "components",
+            "closed": true
+          },
+          {
+            "children": [
+              {
+                "children": [],
+                "nodeid": "ngClippets/ui-src/css/index.css",
+                "title": "index.css"
+              },
+              {
+                "children": [],
+                "nodeid": "ngClippets/ui-src/css/rangeInput.css",
+                "title": "rangeInput.css"
+              },
+              {
+                "children": [],
+                "nodeid": "ngClippets/ui-src/css/scrollbar.css",
+                "title": "scrollbar.css"
+              }
+            ],
+            "nodeid": "ngClippets/ui-src/css",
+            "title": "css",
+            "closed": true
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [],
+                    "nodeid": "ngClippets/ui-src/store/api/api.Actions.js",
+                    "title": "api.Actions.js"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "ngClippets/ui-src/store/api/api.ipc.js",
+                    "title": "api.ipc.js"
+                  }
+                ],
+                "nodeid": "ngClippets/ui-src/store/api",
+                "title": "api",
+                "closed": true
+              },
+              {
+                "children": [
+                  {
+                    "children": [],
+                    "nodeid": "ngClippets/ui-src/store/snipview/snip.Actions.js",
+                    "title": "snip.Actions.js"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "ngClippets/ui-src/store/snipview/snip.Reducer.js",
+                    "title": "snip.Reducer.js"
+                  }
+                ],
+                "nodeid": "ngClippets/ui-src/store/snipview",
+                "title": "snipview",
+                "closed": true
+              },
+              {
+                "children": [
+                  {
+                    "children": [],
+                    "nodeid": "ngClippets/ui-src/store/treeview/tree.Actions.js",
+                    "title": "tree.Actions.js"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "ngClippets/ui-src/store/treeview/tree.Reducer.js",
+                    "title": "tree.Reducer.js"
+                  }
+                ],
+                "nodeid": "ngClippets/ui-src/store/treeview",
+                "title": "treeview",
+                "closed": true
+              },
+              {
+                "children": [],
+                "nodeid": "ngClippets/ui-src/store/App.Store.js",
+                "title": "App.Store.js"
+              }
+            ],
+            "nodeid": "ngClippets/ui-src/store",
+            "title": "store",
+            "closed": true
+          },
+          {
+            "children": [],
+            "nodeid": "ngClippets/ui-src/app.js",
+            "title": "app.js"
+          },
+          {
+            "children": [],
+            "nodeid": "ngClippets/ui-src/index.html",
+            "title": "index.html"
+          }
+        ],
+        "nodeid": "ngClippets/ui-src",
+        "title": "ui-src",
+        "closed": true
+      },
+      {
+        "children": [
+          {
+            "children": [],
+            "nodeid": "ngClippets/wp/polyfills.js",
+            "title": "polyfills.js"
+          },
+          {
+            "children": [],
+            "nodeid": "ngClippets/wp/vendor.js",
+            "title": "vendor.js"
+          },
+          {
+            "children": [],
+            "nodeid": "ngClippets/wp/wp.config.js",
+            "title": "wp.config.js"
+          }
+        ],
+        "nodeid": "ngClippets/wp",
+        "title": "wp",
+        "closed": true
+      },
+      {
+        "children": [],
+        "nodeid": "ngClippets/README.md",
+        "title": "README.md"
+      },
+      {
+        "children": [],
+        "nodeid": "ngClippets/config.json",
+        "title": "config.json"
+      },
+      {
+        "children": [],
+        "nodeid": "ngClippets/main.js",
+        "title": "main.js"
+      },
+      {
+        "children": [],
+        "nodeid": "ngClippets/package.json",
+        "title": "package.json"
+      },
+      {
+        "children": [],
+        "nodeid": "ngClippets/tsconfig.json",
+        "title": "tsconfig.json"
+      }
+    ],
+    "nodeid": "ngClippets",
+    "title": "ngClippets",
+    "closed": true
+  },
+  {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [],
+            "nodeid": "ngCodeViewer/data/FileTree.json",
+            "title": "FileTree.json"
+          },
+          {
+            "children": [],
+            "nodeid": "ngCodeViewer/data/FileTreeState.json",
+            "title": "FileTreeState.json"
+          },
+          {
+            "children": [],
+            "nodeid": "ngCodeViewer/data/windowstate.json",
+            "title": "windowstate.json"
+          }
+        ],
+        "nodeid": "ngCodeViewer/data",
+        "title": "data",
+        "closed": true
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "children": [],
+                "nodeid": "ngCodeViewer/js/routes/GetSetData.js",
+                "title": "GetSetData.js"
+              },
+              {
+                "children": [],
+                "nodeid": "ngCodeViewer/js/routes/readTree.js",
+                "title": "readTree.js"
+              }
+            ],
+            "nodeid": "ngCodeViewer/js/routes",
+            "title": "routes",
+            "closed": true
+          },
+          {
+            "children": [],
+            "nodeid": "ngCodeViewer/js/mainskt.js",
+            "title": "mainskt.js"
+          },
+          {
+            "children": [],
+            "nodeid": "ngCodeViewer/js/server.js",
+            "title": "server.js"
+          }
+        ],
+        "nodeid": "ngCodeViewer/js",
+        "title": "js",
+        "closed": true
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [],
+                    "nodeid": "ngCodeViewer/ui-src/common/Button/jms-button.css",
+                    "title": "jms-button.css"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "ngCodeViewer/ui-src/common/Button/jms-button.html",
+                    "title": "jms-button.html"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "ngCodeViewer/ui-src/common/Button/jms-button.js",
+                    "title": "jms-button.js"
+                  }
+                ],
+                "nodeid": "ngCodeViewer/ui-src/common/Button",
+                "title": "Button",
+                "closed": true
+              },
+              {
+                "children": [
+                  {
+                    "children": [],
+                    "nodeid": "ngCodeViewer/ui-src/common/Input/jms-input.css",
+                    "title": "jms-input.css"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "ngCodeViewer/ui-src/common/Input/jms-input.html",
+                    "title": "jms-input.html"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "ngCodeViewer/ui-src/common/Input/jms-input.js",
+                    "title": "jms-input.js"
+                  }
+                ],
+                "nodeid": "ngCodeViewer/ui-src/common/Input",
+                "title": "Input",
+                "closed": true
+              },
+              {
+                "children": [
+                  {
+                    "children": [],
+                    "nodeid": "ngCodeViewer/ui-src/common/TreeView/jms-tree-view.css",
+                    "title": "jms-tree-view.css"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "ngCodeViewer/ui-src/common/TreeView/jms-tree-view.html",
+                    "title": "jms-tree-view.html"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "ngCodeViewer/ui-src/common/TreeView/jms-tree-view.js",
+                    "title": "jms-tree-view.js"
+                  }
+                ],
+                "nodeid": "ngCodeViewer/ui-src/common/TreeView",
+                "title": "TreeView",
+                "closed": true
+              },
+              {
+                "children": [],
+                "nodeid": "ngCodeViewer/ui-src/common/common.declarations.js",
+                "title": "common.declarations.js"
+              },
+              {
+                "children": [],
+                "nodeid": "ngCodeViewer/ui-src/common/common.module.js",
+                "title": "common.module.js"
+              }
+            ],
+            "nodeid": "ngCodeViewer/ui-src/common",
+            "title": "common",
+            "closed": true
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [],
+                    "nodeid": "ngCodeViewer/ui-src/components/FileView/file-view.css",
+                    "title": "file-view.css"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "ngCodeViewer/ui-src/components/FileView/file-view.html",
+                    "title": "file-view.html"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "ngCodeViewer/ui-src/components/FileView/file-view.js",
+                    "title": "file-view.js"
+                  }
+                ],
+                "nodeid": "ngCodeViewer/ui-src/components/FileView",
+                "title": "FileView",
+                "closed": true
+              },
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "children": [],
+                        "nodeid": "ngCodeViewer/ui-src/components/TreeView/actions/tv-action.data.js",
+                        "title": "tv-action.data.js"
+                      },
+                      {
+                        "children": [],
+                        "nodeid": "ngCodeViewer/ui-src/components/TreeView/actions/tv-actions.css",
+                        "title": "tv-actions.css"
+                      },
+                      {
+                        "children": [],
+                        "nodeid": "ngCodeViewer/ui-src/components/TreeView/actions/tv-actions.html",
+                        "title": "tv-actions.html"
+                      },
+                      {
+                        "children": [],
+                        "nodeid": "ngCodeViewer/ui-src/components/TreeView/actions/tv-actions.js",
+                        "title": "tv-actions.js"
+                      }
+                    ],
+                    "nodeid": "ngCodeViewer/ui-src/components/TreeView/actions",
+                    "title": "actions",
+                    "closed": true
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "ngCodeViewer/ui-src/components/TreeView/tree-view.css",
+                    "title": "tree-view.css"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "ngCodeViewer/ui-src/components/TreeView/tree-view.html",
+                    "title": "tree-view.html"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "ngCodeViewer/ui-src/components/TreeView/tree-view.js",
+                    "title": "tree-view.js"
+                  }
+                ],
+                "nodeid": "ngCodeViewer/ui-src/components/TreeView",
+                "title": "TreeView",
+                "closed": true
+              },
+              {
+                "children": [],
+                "nodeid": "ngCodeViewer/ui-src/components/app-component.css",
+                "title": "app-component.css"
+              },
+              {
+                "children": [],
+                "nodeid": "ngCodeViewer/ui-src/components/app-component.html",
+                "title": "app-component.html"
+              },
+              {
+                "children": [],
+                "nodeid": "ngCodeViewer/ui-src/components/app-component.js",
+                "title": "app-component.js"
+              },
+              {
+                "children": [],
+                "nodeid": "ngCodeViewer/ui-src/components/app.declarations.js",
+                "title": "app.declarations.js"
+              }
+            ],
+            "nodeid": "ngCodeViewer/ui-src/components",
+            "title": "components",
+            "closed": true
+          },
+          {
+            "children": [
+              {
+                "children": [],
+                "nodeid": "ngCodeViewer/ui-src/css/index.css",
+                "title": "index.css"
+              },
+              {
+                "children": [],
+                "nodeid": "ngCodeViewer/ui-src/css/scrollbar.css",
+                "title": "scrollbar.css"
+              },
+              {
+                "children": [],
+                "nodeid": "ngCodeViewer/ui-src/css/twilightj.css",
+                "title": "twilightj.css"
+              }
+            ],
+            "nodeid": "ngCodeViewer/ui-src/css",
+            "title": "css",
+            "closed": true
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [],
+                    "nodeid": "ngCodeViewer/ui-src/store/api/api.Actions.js",
+                    "title": "api.Actions.js"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "ngCodeViewer/ui-src/store/api/api.ws.js",
+                    "title": "api.ws.js"
+                  }
+                ],
+                "nodeid": "ngCodeViewer/ui-src/store/api",
+                "title": "api",
+                "closed": true
+              },
+              {
+                "children": [
+                  {
+                    "children": [],
+                    "nodeid": "ngCodeViewer/ui-src/store/file/file.Actions.js",
+                    "title": "file.Actions.js"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "ngCodeViewer/ui-src/store/file/file.Reducer.js",
+                    "title": "file.Reducer.js"
+                  }
+                ],
+                "nodeid": "ngCodeViewer/ui-src/store/file",
+                "title": "file",
+                "closed": true
+              },
+              {
+                "children": [
+                  {
+                    "children": [],
+                    "nodeid": "ngCodeViewer/ui-src/store/tree/tree.Actions.js",
+                    "title": "tree.Actions.js"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "ngCodeViewer/ui-src/store/tree/tree.Reducer.js",
+                    "title": "tree.Reducer.js"
+                  }
+                ],
+                "nodeid": "ngCodeViewer/ui-src/store/tree",
+                "title": "tree",
+                "closed": true
+              },
+              {
+                "children": [],
+                "nodeid": "ngCodeViewer/ui-src/store/App.Store.js",
+                "title": "App.Store.js"
+              }
+            ],
+            "nodeid": "ngCodeViewer/ui-src/store",
+            "title": "store",
+            "closed": true
+          },
+          {
+            "children": [],
+            "nodeid": "ngCodeViewer/ui-src/app.js",
+            "title": "app.js"
+          },
+          {
+            "children": [],
+            "nodeid": "ngCodeViewer/ui-src/index.html",
+            "title": "index.html"
+          }
+        ],
+        "nodeid": "ngCodeViewer/ui-src",
+        "title": "ui-src",
+        "closed": true
+      },
+      {
+        "children": [
+          {
+            "children": [],
+            "nodeid": "ngCodeViewer/wp/polyfills.js",
+            "title": "polyfills.js"
+          },
+          {
+            "children": [],
+            "nodeid": "ngCodeViewer/wp/vendor.js",
+            "title": "vendor.js"
+          },
+          {
+            "children": [],
+            "nodeid": "ngCodeViewer/wp/wp.config.js",
+            "title": "wp.config.js"
+          }
+        ],
+        "nodeid": "ngCodeViewer/wp",
+        "title": "wp",
+        "closed": true
+      },
+      {
+        "children": [],
+        "nodeid": "ngCodeViewer/README.md",
+        "title": "README.md"
+      },
+      {
+        "children": [],
+        "nodeid": "ngCodeViewer/config.json",
+        "title": "config.json"
+      },
+      {
+        "children": [],
+        "nodeid": "ngCodeViewer/package.json",
+        "title": "package.json"
+      }
+    ],
+    "nodeid": "ngCodeViewer",
+    "title": "ngCodeViewer",
+    "closed": true
+  },
+  {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "children": [],
+                "nodeid": "ngPalmInfo/data/dist/filterList.json",
+                "title": "filterList.json"
+              },
+              {
+                "children": [],
+                "nodeid": "ngPalmInfo/data/dist/genuslist.json",
+                "title": "genuslist.json"
+              },
+              {
+                "children": [],
+                "nodeid": "ngPalmInfo/data/dist/imagelist.json",
+                "title": "imagelist.json"
+              },
+              {
+                "children": [],
+                "nodeid": "ngPalmInfo/data/dist/specieslist.json",
+                "title": "specieslist.json"
+              },
+              {
+                "children": [],
+                "nodeid": "ngPalmInfo/data/dist/specieslistZ.json",
+                "title": "specieslistZ.json"
+              }
+            ],
+            "nodeid": "ngPalmInfo/data/dist",
+            "title": "dist",
+            "closed": true
+          },
+          {
+            "children": [
+              {
+                "children": [],
+                "nodeid": "ngPalmInfo/data/misc-out/Adobe_com.json",
+                "title": "Adobe_com.json"
+              },
+              {
+                "children": [],
+                "nodeid": "ngPalmInfo/data/misc-out/IPTC-Std2016.json",
+                "title": "IPTC-Std2016.json"
+              },
+              {
+                "children": [],
+                "nodeid": "ngPalmInfo/data/misc-out/IPTC2016.json",
+                "title": "IPTC2016.json"
+              },
+              {
+                "children": [],
+                "nodeid": "ngPalmInfo/data/misc-out/NodeExiftool_AcA_01.json",
+                "title": "NodeExiftool_AcA_01.json"
+              },
+              {
+                "children": [],
+                "nodeid": "ngPalmInfo/data/misc-out/NodeExiftool_Adobe_com-PalmInfo.json",
+                "title": "NodeExiftool_Adobe_com-PalmInfo.json"
+              },
+              {
+                "children": [],
+                "nodeid": "ngPalmInfo/data/misc-out/NodeExiftool_BrAr_07.json",
+                "title": "NodeExiftool_BrAr_07.json"
+              },
+              {
+                "children": [],
+                "nodeid": "ngPalmInfo/data/misc-out/NodeExiftool_WaR_04.json",
+                "title": "NodeExiftool_WaR_04.json"
+              },
+              {
+                "children": [],
+                "nodeid": "ngPalmInfo/data/misc-out/NodeExiftool_WaR_04jms.json",
+                "title": "NodeExiftool_WaR_04jms.json"
+              },
+              {
+                "children": [],
+                "nodeid": "ngPalmInfo/data/misc-out/NodeExiftool_genus.json",
+                "title": "NodeExiftool_genus.json"
+              },
+              {
+                "children": [],
+                "nodeid": "ngPalmInfo/data/misc-out/NodeExiftool_misc-src.json",
+                "title": "NodeExiftool_misc-src.json"
+              },
+              {
+                "children": [],
+                "nodeid": "ngPalmInfo/data/misc-out/NodeExiftool_readWrite0.json",
+                "title": "NodeExiftool_readWrite0.json"
+              },
+              {
+                "children": [],
+                "nodeid": "ngPalmInfo/data/misc-out/NodeExiftool_readWrite1.json",
+                "title": "NodeExiftool_readWrite1.json"
+              },
+              {
+                "children": [],
+                "nodeid": "ngPalmInfo/data/misc-out/adobeexif.json",
+                "title": "adobeexif.json"
+              },
+              {
+                "children": [],
+                "nodeid": "ngPalmInfo/data/misc-out/genus.json",
+                "title": "genus.json"
+              },
+              {
+                "children": [],
+                "nodeid": "ngPalmInfo/data/misc-out/iptc-palmInfo.json",
+                "title": "iptc-palmInfo.json"
+              },
+              {
+                "children": [],
+                "nodeid": "ngPalmInfo/data/misc-out/iptc_palmInfo.json",
+                "title": "iptc_palmInfo.json"
+              },
+              {
+                "children": [],
+                "nodeid": "ngPalmInfo/data/misc-out/readWrite2a.json",
+                "title": "readWrite2a.json"
+              },
+              {
+                "children": [],
+                "nodeid": "ngPalmInfo/data/misc-out/readWrite2b.json",
+                "title": "readWrite2b.json"
+              },
+              {
+                "children": [],
+                "nodeid": "ngPalmInfo/data/misc-out/readWrite3a.json",
+                "title": "readWrite3a.json"
+              },
+              {
+                "children": [],
+                "nodeid": "ngPalmInfo/data/misc-out/specieslistZ.json",
+                "title": "specieslistZ.json"
+              },
+              {
+                "children": [],
+                "nodeid": "ngPalmInfo/data/misc-out/zzlist.json",
+                "title": "zzlist.json"
+              }
+            ],
+            "nodeid": "ngPalmInfo/data/misc-out",
+            "title": "misc-out",
+            "closed": true
+          }
+        ],
+        "nodeid": "ngPalmInfo/data",
+        "title": "data",
+        "closed": true
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "children": [],
+                "nodeid": "ngPalmInfo/js/admin/filterListCount.js",
+                "title": "filterListCount.js"
+              },
+              {
+                "children": [],
+                "nodeid": "ngPalmInfo/js/admin/imageCaptions.js",
+                "title": "imageCaptions.js"
+              },
+              {
+                "children": [],
+                "nodeid": "ngPalmInfo/js/admin/imagelist.js",
+                "title": "imagelist.js"
+              },
+              {
+                "children": [],
+                "nodeid": "ngPalmInfo/js/admin/palmlist.js",
+                "title": "palmlist.js"
+              },
+              {
+                "children": [],
+                "nodeid": "ngPalmInfo/js/admin/prepinfo.js",
+                "title": "prepinfo.js"
+              },
+              {
+                "children": [],
+                "nodeid": "ngPalmInfo/js/admin/prepinfo.text.js",
+                "title": "prepinfo.text.js"
+              }
+            ],
+            "nodeid": "ngPalmInfo/js/admin",
+            "title": "admin",
+            "closed": true
+          },
+          {
+            "children": [
+              {
+                "children": [],
+                "nodeid": "ngPalmInfo/js/misc/exifone.js",
+                "title": "exifone.js"
+              },
+              {
+                "children": [],
+                "nodeid": "ngPalmInfo/js/misc/gardenexif.js",
+                "title": "gardenexif.js"
+              },
+              {
+                "children": [],
+                "nodeid": "ngPalmInfo/js/misc/palmlistC.js",
+                "title": "palmlistC.js"
+              },
+              {
+                "children": [],
+                "nodeid": "ngPalmInfo/js/misc/palmlistZ.js",
+                "title": "palmlistZ.js"
+              },
+              {
+                "children": [],
+                "nodeid": "ngPalmInfo/js/misc/testexif.js",
+                "title": "testexif.js"
+              }
+            ],
+            "nodeid": "ngPalmInfo/js/misc",
+            "title": "misc",
+            "closed": true
+          },
+          {
+            "children": [
+              {
+                "children": [],
+                "nodeid": "ngPalmInfo/js/routes/getbodypiclist.js",
+                "title": "getbodypiclist.js"
+              },
+              {
+                "children": [],
+                "nodeid": "ngPalmInfo/js/routes/getjsondata.js",
+                "title": "getjsondata.js"
+              }
+            ],
+            "nodeid": "ngPalmInfo/js/routes",
+            "title": "routes",
+            "closed": true
+          },
+          {
+            "children": [],
+            "nodeid": "ngPalmInfo/js/routes.js",
+            "title": "routes.js"
+          },
+          {
+            "children": [],
+            "nodeid": "ngPalmInfo/js/server.js",
+            "title": "server.js"
+          }
+        ],
+        "nodeid": "ngPalmInfo/js",
+        "title": "js",
+        "closed": true
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [],
+                    "nodeid": "ngPalmInfo/ui-src/common/Blank/tooltip-content.css",
+                    "title": "tooltip-content.css"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "ngPalmInfo/ui-src/common/Blank/tooltip-content.html",
+                    "title": "tooltip-content.html"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "ngPalmInfo/ui-src/common/Blank/tooltip-content.js",
+                    "title": "tooltip-content.js"
+                  }
+                ],
+                "nodeid": "ngPalmInfo/ui-src/common/Blank",
+                "title": "Blank",
+                "closed": true
+              },
+              {
+                "children": [
+                  {
+                    "children": [],
+                    "nodeid": "ngPalmInfo/ui-src/common/Button/jms-button.css",
+                    "title": "jms-button.css"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "ngPalmInfo/ui-src/common/Button/jms-button.html",
+                    "title": "jms-button.html"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "ngPalmInfo/ui-src/common/Button/jms-button.js",
+                    "title": "jms-button.js"
+                  }
+                ],
+                "nodeid": "ngPalmInfo/ui-src/common/Button",
+                "title": "Button",
+                "closed": true
+              },
+              {
+                "children": [
+                  {
+                    "children": [],
+                    "nodeid": "ngPalmInfo/ui-src/common/DropDownMenu/jms-dd-menu.css",
+                    "title": "jms-dd-menu.css"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "ngPalmInfo/ui-src/common/DropDownMenu/jms-dd-menu.html",
+                    "title": "jms-dd-menu.html"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "ngPalmInfo/ui-src/common/DropDownMenu/jms-dd-menu.js",
+                    "title": "jms-dd-menu.js"
+                  }
+                ],
+                "nodeid": "ngPalmInfo/ui-src/common/DropDownMenu",
+                "title": "DropDownMenu",
+                "closed": true
+              },
+              {
+                "children": [
+                  {
+                    "children": [],
+                    "nodeid": "ngPalmInfo/ui-src/common/DropDownMulti/jms-dd-multi.css",
+                    "title": "jms-dd-multi.css"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "ngPalmInfo/ui-src/common/DropDownMulti/jms-dd-multi.html",
+                    "title": "jms-dd-multi.html"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "ngPalmInfo/ui-src/common/DropDownMulti/jms-dd-multi.js",
+                    "title": "jms-dd-multi.js"
+                  }
+                ],
+                "nodeid": "ngPalmInfo/ui-src/common/DropDownMulti",
+                "title": "DropDownMulti",
+                "closed": true
+              },
+              {
+                "children": [
+                  {
+                    "children": [],
+                    "nodeid": "ngPalmInfo/ui-src/common/DropDownSelect/jms-dd-select.css",
+                    "title": "jms-dd-select.css"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "ngPalmInfo/ui-src/common/DropDownSelect/jms-dd-select.html",
+                    "title": "jms-dd-select.html"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "ngPalmInfo/ui-src/common/DropDownSelect/jms-dd-select.js",
+                    "title": "jms-dd-select.js"
+                  }
+                ],
+                "nodeid": "ngPalmInfo/ui-src/common/DropDownSelect",
+                "title": "DropDownSelect",
+                "closed": true
+              },
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "children": [],
+                        "nodeid": "ngPalmInfo/ui-src/common/Gallery/help/jms-gallery-help.css",
+                        "title": "jms-gallery-help.css"
+                      },
+                      {
+                        "children": [],
+                        "nodeid": "ngPalmInfo/ui-src/common/Gallery/help/jms-gallery-help.html",
+                        "title": "jms-gallery-help.html"
+                      },
+                      {
+                        "children": [],
+                        "nodeid": "ngPalmInfo/ui-src/common/Gallery/help/jms-gallery-help.js",
+                        "title": "jms-gallery-help.js"
+                      },
+                      {
+                        "children": [],
+                        "nodeid": "ngPalmInfo/ui-src/common/Gallery/help/shortcuts.jsx",
+                        "title": "shortcuts.jsx"
+                      }
+                    ],
+                    "nodeid": "ngPalmInfo/ui-src/common/Gallery/help",
+                    "title": "help",
+                    "closed": true
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "ngPalmInfo/ui-src/common/Gallery/gallery.style.js",
+                    "title": "gallery.style.js"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "ngPalmInfo/ui-src/common/Gallery/jms-gallery.css",
+                    "title": "jms-gallery.css"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "ngPalmInfo/ui-src/common/Gallery/jms-gallery.html",
+                    "title": "jms-gallery.html"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "ngPalmInfo/ui-src/common/Gallery/jms-gallery.js",
+                    "title": "jms-gallery.js"
+                  }
+                ],
+                "nodeid": "ngPalmInfo/ui-src/common/Gallery",
+                "title": "Gallery",
+                "closed": true
+              },
+              {
+                "children": [
+                  {
+                    "children": [],
+                    "nodeid": "ngPalmInfo/ui-src/common/Input/jms-input.css",
+                    "title": "jms-input.css"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "ngPalmInfo/ui-src/common/Input/jms-input.html",
+                    "title": "jms-input.html"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "ngPalmInfo/ui-src/common/Input/jms-input.js",
+                    "title": "jms-input.js"
+                  }
+                ],
+                "nodeid": "ngPalmInfo/ui-src/common/Input",
+                "title": "Input",
+                "closed": true
+              },
+              {
+                "children": [
+                  {
+                    "children": [],
+                    "nodeid": "ngPalmInfo/ui-src/common/List/jms-list.css",
+                    "title": "jms-list.css"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "ngPalmInfo/ui-src/common/List/jms-list.html",
+                    "title": "jms-list.html"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "ngPalmInfo/ui-src/common/List/jms-list.js",
+                    "title": "jms-list.js"
+                  }
+                ],
+                "nodeid": "ngPalmInfo/ui-src/common/List",
+                "title": "List",
+                "closed": true
+              },
+              {
+                "children": [
+                  {
+                    "children": [],
+                    "nodeid": "ngPalmInfo/ui-src/common/Modal/jms-modal.css",
+                    "title": "jms-modal.css"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "ngPalmInfo/ui-src/common/Modal/jms-modal.html",
+                    "title": "jms-modal.html"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "ngPalmInfo/ui-src/common/Modal/jms-modal.js",
+                    "title": "jms-modal.js"
+                  }
+                ],
+                "nodeid": "ngPalmInfo/ui-src/common/Modal",
+                "title": "Modal",
+                "closed": true
+              },
+              {
+                "children": [
+                  {
+                    "children": [],
+                    "nodeid": "ngPalmInfo/ui-src/common/PageIndicator/jms-page-indicator.css",
+                    "title": "jms-page-indicator.css"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "ngPalmInfo/ui-src/common/PageIndicator/jms-page-indicator.html",
+                    "title": "jms-page-indicator.html"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "ngPalmInfo/ui-src/common/PageIndicator/jms-page-indicator.js",
+                    "title": "jms-page-indicator.js"
+                  }
+                ],
+                "nodeid": "ngPalmInfo/ui-src/common/PageIndicator",
+                "title": "PageIndicator",
+                "closed": true
+              },
+              {
+                "children": [
+                  {
+                    "children": [],
+                    "nodeid": "ngPalmInfo/ui-src/common/ProgressBar/jms-progress-bar.css",
+                    "title": "jms-progress-bar.css"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "ngPalmInfo/ui-src/common/ProgressBar/jms-progress-bar.html",
+                    "title": "jms-progress-bar.html"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "ngPalmInfo/ui-src/common/ProgressBar/jms-progress-bar.js",
+                    "title": "jms-progress-bar.js"
+                  }
+                ],
+                "nodeid": "ngPalmInfo/ui-src/common/ProgressBar",
+                "title": "ProgressBar",
+                "closed": true
+              },
+              {
+                "children": [
+                  {
+                    "children": [],
+                    "nodeid": "ngPalmInfo/ui-src/common/RangeSlider/jms-range-slider.css",
+                    "title": "jms-range-slider.css"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "ngPalmInfo/ui-src/common/RangeSlider/jms-range-slider.html",
+                    "title": "jms-range-slider.html"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "ngPalmInfo/ui-src/common/RangeSlider/jms-range-slider.js",
+                    "title": "jms-range-slider.js"
+                  }
+                ],
+                "nodeid": "ngPalmInfo/ui-src/common/RangeSlider",
+                "title": "RangeSlider",
+                "closed": true
+              },
+              {
+                "children": [
+                  {
+                    "children": [],
+                    "nodeid": "ngPalmInfo/ui-src/common/SingleSlider/jms-single-slider.css",
+                    "title": "jms-single-slider.css"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "ngPalmInfo/ui-src/common/SingleSlider/jms-single-slider.html",
+                    "title": "jms-single-slider.html"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "ngPalmInfo/ui-src/common/SingleSlider/jms-single-slider.js",
+                    "title": "jms-single-slider.js"
+                  }
+                ],
+                "nodeid": "ngPalmInfo/ui-src/common/SingleSlider",
+                "title": "SingleSlider",
+                "closed": true
+              },
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "children": [],
+                        "nodeid": "ngPalmInfo/ui-src/common/Tooltip/TooltipContainer/jms-tooltip.css",
+                        "title": "jms-tooltip.css"
+                      },
+                      {
+                        "children": [],
+                        "nodeid": "ngPalmInfo/ui-src/common/Tooltip/TooltipContainer/jms-tooltip.html",
+                        "title": "jms-tooltip.html"
+                      },
+                      {
+                        "children": [],
+                        "nodeid": "ngPalmInfo/ui-src/common/Tooltip/TooltipContainer/jms-tooltip.js",
+                        "title": "jms-tooltip.js"
+                      }
+                    ],
+                    "nodeid": "ngPalmInfo/ui-src/common/Tooltip/TooltipContainer",
+                    "title": "TooltipContainer",
+                    "closed": true
+                  },
+                  {
+                    "children": [
+                      {
+                        "children": [],
+                        "nodeid": "ngPalmInfo/ui-src/common/Tooltip/TooltipContent/tooltip-content.css",
+                        "title": "tooltip-content.css"
+                      },
+                      {
+                        "children": [],
+                        "nodeid": "ngPalmInfo/ui-src/common/Tooltip/TooltipContent/tooltip-content.html",
+                        "title": "tooltip-content.html"
+                      },
+                      {
+                        "children": [],
+                        "nodeid": "ngPalmInfo/ui-src/common/Tooltip/TooltipContent/tooltip-content.js",
+                        "title": "tooltip-content.js"
+                      }
+                    ],
+                    "nodeid": "ngPalmInfo/ui-src/common/Tooltip/TooltipContent",
+                    "title": "TooltipContent",
+                    "closed": true
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "ngPalmInfo/ui-src/common/Tooltip/tooltip.module.js",
+                    "title": "tooltip.module.js"
+                  }
+                ],
+                "nodeid": "ngPalmInfo/ui-src/common/Tooltip",
+                "title": "Tooltip",
+                "closed": true
+              },
+              {
+                "children": [
+                  {
+                    "children": [],
+                    "nodeid": "ngPalmInfo/ui-src/common/TreeView/jms-tree-view.css",
+                    "title": "jms-tree-view.css"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "ngPalmInfo/ui-src/common/TreeView/jms-tree-view.html",
+                    "title": "jms-tree-view.html"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "ngPalmInfo/ui-src/common/TreeView/jms-tree-view.js",
+                    "title": "jms-tree-view.js"
+                  }
+                ],
+                "nodeid": "ngPalmInfo/ui-src/common/TreeView",
+                "title": "TreeView",
+                "closed": true
+              },
+              {
+                "children": [],
+                "nodeid": "ngPalmInfo/ui-src/common/common.declarations.js",
+                "title": "common.declarations.js"
+              },
+              {
+                "children": [],
+                "nodeid": "ngPalmInfo/ui-src/common/common.module.js",
+                "title": "common.module.js"
+              }
+            ],
+            "nodeid": "ngPalmInfo/ui-src/common",
+            "title": "common",
+            "closed": true
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [],
+                    "nodeid": "ngPalmInfo/ui-src/components/HelpPage/help-page.css",
+                    "title": "help-page.css"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "ngPalmInfo/ui-src/components/HelpPage/help-page.html",
+                    "title": "help-page.html"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "ngPalmInfo/ui-src/components/HelpPage/help-page.js",
+                    "title": "help-page.js"
+                  }
+                ],
+                "nodeid": "ngPalmInfo/ui-src/components/HelpPage",
+                "title": "HelpPage",
+                "closed": true
+              },
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "children": [],
+                        "nodeid": "ngPalmInfo/ui-src/components/SpeciesPage/FilterView/filter-view.css",
+                        "title": "filter-view.css"
+                      },
+                      {
+                        "children": [],
+                        "nodeid": "ngPalmInfo/ui-src/components/SpeciesPage/FilterView/filter-view.html",
+                        "title": "filter-view.html"
+                      },
+                      {
+                        "children": [],
+                        "nodeid": "ngPalmInfo/ui-src/components/SpeciesPage/FilterView/filter-view.js",
+                        "title": "filter-view.js"
+                      },
+                      {
+                        "children": [],
+                        "nodeid": "ngPalmInfo/ui-src/components/SpeciesPage/FilterView/filter.data.js",
+                        "title": "filter.data.js"
+                      },
+                      {
+                        "children": [],
+                        "nodeid": "ngPalmInfo/ui-src/components/SpeciesPage/FilterView/tips.text.js",
+                        "title": "tips.text.js"
+                      }
+                    ],
+                    "nodeid": "ngPalmInfo/ui-src/components/SpeciesPage/FilterView",
+                    "title": "FilterView",
+                    "closed": true
+                  },
+                  {
+                    "children": [
+                      {
+                        "children": [],
+                        "nodeid": "ngPalmInfo/ui-src/components/SpeciesPage/HeaderView/header-view.css",
+                        "title": "header-view.css"
+                      },
+                      {
+                        "children": [],
+                        "nodeid": "ngPalmInfo/ui-src/components/SpeciesPage/HeaderView/header-view.html",
+                        "title": "header-view.html"
+                      },
+                      {
+                        "children": [],
+                        "nodeid": "ngPalmInfo/ui-src/components/SpeciesPage/HeaderView/header-view.js",
+                        "title": "header-view.js"
+                      },
+                      {
+                        "children": [],
+                        "nodeid": "ngPalmInfo/ui-src/components/SpeciesPage/HeaderView/header.data.js",
+                        "title": "header.data.js"
+                      }
+                    ],
+                    "nodeid": "ngPalmInfo/ui-src/components/SpeciesPage/HeaderView",
+                    "title": "HeaderView",
+                    "closed": true
+                  },
+                  {
+                    "children": [
+                      {
+                        "children": [],
+                        "nodeid": "ngPalmInfo/ui-src/components/SpeciesPage/InfoView/info-view.css",
+                        "title": "info-view.css"
+                      },
+                      {
+                        "children": [],
+                        "nodeid": "ngPalmInfo/ui-src/components/SpeciesPage/InfoView/info-view.html",
+                        "title": "info-view.html"
+                      },
+                      {
+                        "children": [],
+                        "nodeid": "ngPalmInfo/ui-src/components/SpeciesPage/InfoView/info-view.js",
+                        "title": "info-view.js"
+                      }
+                    ],
+                    "nodeid": "ngPalmInfo/ui-src/components/SpeciesPage/InfoView",
+                    "title": "InfoView",
+                    "closed": true
+                  },
+                  {
+                    "children": [
+                      {
+                        "children": [],
+                        "nodeid": "ngPalmInfo/ui-src/components/SpeciesPage/JumpView/jump-view.css",
+                        "title": "jump-view.css"
+                      },
+                      {
+                        "children": [],
+                        "nodeid": "ngPalmInfo/ui-src/components/SpeciesPage/JumpView/jump-view.html",
+                        "title": "jump-view.html"
+                      },
+                      {
+                        "children": [],
+                        "nodeid": "ngPalmInfo/ui-src/components/SpeciesPage/JumpView/jump-view.js",
+                        "title": "jump-view.js"
+                      }
+                    ],
+                    "nodeid": "ngPalmInfo/ui-src/components/SpeciesPage/JumpView",
+                    "title": "JumpView",
+                    "closed": true
+                  },
+                  {
+                    "children": [
+                      {
+                        "children": [],
+                        "nodeid": "ngPalmInfo/ui-src/components/SpeciesPage/PicView/pic-view.css",
+                        "title": "pic-view.css"
+                      },
+                      {
+                        "children": [],
+                        "nodeid": "ngPalmInfo/ui-src/components/SpeciesPage/PicView/pic-view.html",
+                        "title": "pic-view.html"
+                      },
+                      {
+                        "children": [],
+                        "nodeid": "ngPalmInfo/ui-src/components/SpeciesPage/PicView/pic-view.js",
+                        "title": "pic-view.js"
+                      }
+                    ],
+                    "nodeid": "ngPalmInfo/ui-src/components/SpeciesPage/PicView",
+                    "title": "PicView",
+                    "closed": true
+                  },
+                  {
+                    "children": [
+                      {
+                        "children": [],
+                        "nodeid": "ngPalmInfo/ui-src/components/SpeciesPage/TabsBar/tabs-bar.css",
+                        "title": "tabs-bar.css"
+                      },
+                      {
+                        "children": [],
+                        "nodeid": "ngPalmInfo/ui-src/components/SpeciesPage/TabsBar/tabs-bar.html",
+                        "title": "tabs-bar.html"
+                      },
+                      {
+                        "children": [],
+                        "nodeid": "ngPalmInfo/ui-src/components/SpeciesPage/TabsBar/tabs-bar.js",
+                        "title": "tabs-bar.js"
+                      },
+                      {
+                        "children": [],
+                        "nodeid": "ngPalmInfo/ui-src/components/SpeciesPage/TabsBar/tb.data.js",
+                        "title": "tb.data.js"
+                      }
+                    ],
+                    "nodeid": "ngPalmInfo/ui-src/components/SpeciesPage/TabsBar",
+                    "title": "TabsBar",
+                    "closed": true
+                  },
+                  {
+                    "children": [
+                      {
+                        "children": [],
+                        "nodeid": "ngPalmInfo/ui-src/components/SpeciesPage/TabsView/tabs-view.css",
+                        "title": "tabs-view.css"
+                      },
+                      {
+                        "children": [],
+                        "nodeid": "ngPalmInfo/ui-src/components/SpeciesPage/TabsView/tabs-view.html",
+                        "title": "tabs-view.html"
+                      },
+                      {
+                        "children": [],
+                        "nodeid": "ngPalmInfo/ui-src/components/SpeciesPage/TabsView/tabs-view.js",
+                        "title": "tabs-view.js"
+                      }
+                    ],
+                    "nodeid": "ngPalmInfo/ui-src/components/SpeciesPage/TabsView",
+                    "title": "TabsView",
+                    "closed": true
+                  },
+                  {
+                    "children": [
+                      {
+                        "children": [],
+                        "nodeid": "ngPalmInfo/ui-src/components/SpeciesPage/ThumbPic/thumb-pic.css",
+                        "title": "thumb-pic.css"
+                      },
+                      {
+                        "children": [],
+                        "nodeid": "ngPalmInfo/ui-src/components/SpeciesPage/ThumbPic/thumb-pic.html",
+                        "title": "thumb-pic.html"
+                      },
+                      {
+                        "children": [],
+                        "nodeid": "ngPalmInfo/ui-src/components/SpeciesPage/ThumbPic/thumb-pic.js",
+                        "title": "thumb-pic.js"
+                      }
+                    ],
+                    "nodeid": "ngPalmInfo/ui-src/components/SpeciesPage/ThumbPic",
+                    "title": "ThumbPic",
+                    "closed": true
+                  },
+                  {
+                    "children": [
+                      {
+                        "children": [],
+                        "nodeid": "ngPalmInfo/ui-src/components/SpeciesPage/ThumbsColumn/thumbs-column.css",
+                        "title": "thumbs-column.css"
+                      },
+                      {
+                        "children": [],
+                        "nodeid": "ngPalmInfo/ui-src/components/SpeciesPage/ThumbsColumn/thumbs-column.html",
+                        "title": "thumbs-column.html"
+                      },
+                      {
+                        "children": [],
+                        "nodeid": "ngPalmInfo/ui-src/components/SpeciesPage/ThumbsColumn/thumbs-column.js",
+                        "title": "thumbs-column.js"
+                      }
+                    ],
+                    "nodeid": "ngPalmInfo/ui-src/components/SpeciesPage/ThumbsColumn",
+                    "title": "ThumbsColumn",
+                    "closed": true
+                  },
+                  {
+                    "children": [
+                      {
+                        "children": [],
+                        "nodeid": "ngPalmInfo/ui-src/components/SpeciesPage/ThumbsFlow/thumbs-flow.css",
+                        "title": "thumbs-flow.css"
+                      },
+                      {
+                        "children": [],
+                        "nodeid": "ngPalmInfo/ui-src/components/SpeciesPage/ThumbsFlow/thumbs-flow.html",
+                        "title": "thumbs-flow.html"
+                      },
+                      {
+                        "children": [],
+                        "nodeid": "ngPalmInfo/ui-src/components/SpeciesPage/ThumbsFlow/thumbs-flow.js",
+                        "title": "thumbs-flow.js"
+                      }
+                    ],
+                    "nodeid": "ngPalmInfo/ui-src/components/SpeciesPage/ThumbsFlow",
+                    "title": "ThumbsFlow",
+                    "closed": true
+                  },
+                  {
+                    "children": [
+                      {
+                        "children": [],
+                        "nodeid": "ngPalmInfo/ui-src/components/SpeciesPage/ThumbsRow/thumbs-row.css",
+                        "title": "thumbs-row.css"
+                      },
+                      {
+                        "children": [],
+                        "nodeid": "ngPalmInfo/ui-src/components/SpeciesPage/ThumbsRow/thumbs-row.html",
+                        "title": "thumbs-row.html"
+                      },
+                      {
+                        "children": [],
+                        "nodeid": "ngPalmInfo/ui-src/components/SpeciesPage/ThumbsRow/thumbs-row.js",
+                        "title": "thumbs-row.js"
+                      }
+                    ],
+                    "nodeid": "ngPalmInfo/ui-src/components/SpeciesPage/ThumbsRow",
+                    "title": "ThumbsRow",
+                    "closed": true
+                  },
+                  {
+                    "children": [
+                      {
+                        "children": [],
+                        "nodeid": "ngPalmInfo/ui-src/components/SpeciesPage/ThumbsView/thumbs-view.css",
+                        "title": "thumbs-view.css"
+                      },
+                      {
+                        "children": [],
+                        "nodeid": "ngPalmInfo/ui-src/components/SpeciesPage/ThumbsView/thumbs-view.html",
+                        "title": "thumbs-view.html"
+                      },
+                      {
+                        "children": [],
+                        "nodeid": "ngPalmInfo/ui-src/components/SpeciesPage/ThumbsView/thumbs-view.js",
+                        "title": "thumbs-view.js"
+                      }
+                    ],
+                    "nodeid": "ngPalmInfo/ui-src/components/SpeciesPage/ThumbsView",
+                    "title": "ThumbsView",
+                    "closed": true
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "ngPalmInfo/ui-src/components/SpeciesPage/species-page.css",
+                    "title": "species-page.css"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "ngPalmInfo/ui-src/components/SpeciesPage/species-page.html",
+                    "title": "species-page.html"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "ngPalmInfo/ui-src/components/SpeciesPage/species-page.js",
+                    "title": "species-page.js"
+                  }
+                ],
+                "nodeid": "ngPalmInfo/ui-src/components/SpeciesPage",
+                "title": "SpeciesPage",
+                "closed": true
+              },
+              {
+                "children": [],
+                "nodeid": "ngPalmInfo/ui-src/components/app.component.css",
+                "title": "app.component.css"
+              },
+              {
+                "children": [],
+                "nodeid": "ngPalmInfo/ui-src/components/app.component.html",
+                "title": "app.component.html"
+              },
+              {
+                "children": [],
+                "nodeid": "ngPalmInfo/ui-src/components/app.component.js",
+                "title": "app.component.js"
+              },
+              {
+                "children": [],
+                "nodeid": "ngPalmInfo/ui-src/components/app.declarations.js",
+                "title": "app.declarations.js"
+              }
+            ],
+            "nodeid": "ngPalmInfo/ui-src/components",
+            "title": "components",
+            "closed": true
+          },
+          {
+            "children": [
+              {
+                "children": [],
+                "nodeid": "ngPalmInfo/ui-src/css/index.css",
+                "title": "index.css"
+              }
+            ],
+            "nodeid": "ngPalmInfo/ui-src/css",
+            "title": "css",
+            "closed": true
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [],
+                    "nodeid": "ngPalmInfo/ui-src/store/app/app.actions.js",
+                    "title": "app.actions.js"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "ngPalmInfo/ui-src/store/app/app.reducer.js",
+                    "title": "app.reducer.js"
+                  }
+                ],
+                "nodeid": "ngPalmInfo/ui-src/store/app",
+                "title": "app",
+                "closed": true
+              },
+              {
+                "children": [
+                  {
+                    "children": [],
+                    "nodeid": "ngPalmInfo/ui-src/store/info/info.actions.js",
+                    "title": "info.actions.js"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "ngPalmInfo/ui-src/store/info/info.reducer.js",
+                    "title": "info.reducer.js"
+                  }
+                ],
+                "nodeid": "ngPalmInfo/ui-src/store/info",
+                "title": "info",
+                "closed": true
+              },
+              {
+                "children": [
+                  {
+                    "children": [],
+                    "nodeid": "ngPalmInfo/ui-src/store/pics/pics.actions.js",
+                    "title": "pics.actions.js"
+                  },
+                  {
+                    "children": [],
+                    "nodeid": "ngPalmInfo/ui-src/store/pics/pics.reducer.js",
+                    "title": "pics.reducer.js"
+                  }
+                ],
+                "nodeid": "ngPalmInfo/ui-src/store/pics",
+                "title": "pics",
+                "closed": true
+              },
+              {
+                "children": [],
+                "nodeid": "ngPalmInfo/ui-src/store/App.Store.js",
+                "title": "App.Store.js"
+              },
+              {
+                "children": [],
+                "nodeid": "ngPalmInfo/ui-src/store/api.actions.js",
+                "title": "api.actions.js"
+              }
+            ],
+            "nodeid": "ngPalmInfo/ui-src/store",
+            "title": "store",
+            "closed": true
+          },
+          {
+            "children": [],
+            "nodeid": "ngPalmInfo/ui-src/app.js",
+            "title": "app.js"
+          },
+          {
+            "children": [],
+            "nodeid": "ngPalmInfo/ui-src/index.html",
+            "title": "index.html"
+          }
+        ],
+        "nodeid": "ngPalmInfo/ui-src",
+        "title": "ui-src",
+        "closed": true
+      },
+      {
+        "children": [
+          {
+            "children": [],
+            "nodeid": "ngPalmInfo/wp/polyfills.js",
+            "title": "polyfills.js"
+          },
+          {
+            "children": [],
+            "nodeid": "ngPalmInfo/wp/tsconfig.json",
+            "title": "tsconfig.json"
+          },
+          {
+            "children": [],
+            "nodeid": "ngPalmInfo/wp/vendor.js",
+            "title": "vendor.js"
+          },
+          {
+            "children": [],
+            "nodeid": "ngPalmInfo/wp/wp.config.js",
+            "title": "wp.config.js"
+          }
+        ],
+        "nodeid": "ngPalmInfo/wp",
+        "title": "wp",
+        "closed": true
+      },
+      {
+        "children": [],
+        "nodeid": "ngPalmInfo/package.json",
+        "title": "package.json"
+      }
+    ],
+    "nodeid": "ngPalmInfo",
+    "title": "ngPalmInfo",
+    "closed": true
+  }
+]
