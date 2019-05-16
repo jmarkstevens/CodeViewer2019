@@ -2,12 +2,6 @@ import classNames from 'classnames'
 import React from 'react'
 import lodashGet from 'lodash/get'
 
-const iconStyBase = {
-  background: "url('./img/sun.ico') 0/16px no-repeat",
-  marginRight: '10px',
-  width: '16px'
-}
-
 const titleColors = {
   parent: '#AF90A5',
   parentSelected: '#7BB53B',
@@ -81,6 +75,7 @@ const TreeViewNode = props => {
     iconSty.background = "url('./img/leaf.ico') 0/1em no-repeat"
   else if (iconType === options.icon.snow)
     iconSty.background = "url('./img/snow.ico') 0/1em no-repeat"
+  else iconSty.background = "url('./img/sun.ico') 0/1em no-repeat"
 
   return (
     <div id="TreeNode">

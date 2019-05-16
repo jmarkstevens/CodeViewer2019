@@ -1,10 +1,12 @@
 import React from 'react'
 
+import TreeContainer from '../../containers/tree'
+
 const AppComponent = () => {
   return (
     <div className="app-container">
       <div className="tree-container">
-        TreeContainer{/* <TreeContainer /> */}
+        <TreeContainer />
       </div>
       <div className="file-container">
         FileContainer{/* <FileContainer /> */}
