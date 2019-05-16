@@ -33,9 +33,5 @@ module.exports = {
   ],
   resolve: {
     extensions: ['*', '.css', '.js', '.jsx', '.scss']
-  },
-  externals: {
-    react: 'React',
-    'react-dom': 'ReactDOM'
   }
 }
