@@ -1,0 +1,65 @@
+.common-button-icon {
+  font-size: 2.2em !important;
+}
+
+.common-icon-button {
+  color: $button-color !important;
+  min-width: 36px !important;
+  width: 36px !important;
+}
+
+.common-icon-button-mobile {
+  color: $button-color-mobile !important;
+}
+
+.common-icon-button:disabled {
+  color: $disabled-color !important;
+}
+
+.common-icon-button-mobile:disabled {
+  color: $disabled-color-mobile !important;
+}
+
+.tree-view {
+  font-size: 1em;
+  line-height: 100%;
+}
+
+.tree-view-ul {
+  height: inherit;
+}
+
+.tree-view-li {
+  list-style-type: none;
+  margin-bottom: 2px;
+  padding-left: 1em;
+}
+
+.tree-node-icon {
+  width: 16px;
+}
+
+.tree-node-title {
+  margin-top: 3px;
+}
+
+.tree-node-p {
+  cursor: pointer;
+  display: flex;
+}
+
+.tree-node-p-can-toggle {
+  color: #815c7c;
+  margin: 0;
+}
+
+.tree-node-p-no-toggle {
+  color: #fff;
+  margin: 0;
+}
+
+.tree-node-icon {
+  height: 21px;
+  margin-right: 10px;
+  width: 16px;
+}

@@ -1,0 +1,27 @@
+@import 'styles/variables';
+
+@import 'styles/common.scss';
+@import 'styles/normalize.scss';
+@import 'styles/file.scss';
+@import 'styles/tree.scss';
+
+body {
+  font-size: 16px;
+  overflow: hidden;
+}
+
+* {
+  outline: none;
+}
+
+.app-container {
+  background-color: $background-color;
+  color: $foreground-color;
+  display: flex;
+  flex-direction: row;
+  height: 100vh;
+  margin: 0;
+  overflow: hidden;
+  padding: 0 5px;
+  width: 100vw;
+}

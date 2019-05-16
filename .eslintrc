@@ -21,7 +21,8 @@
     "FormData": true,
     "FileReader": true,
     "Blob": true,
-    "navigator": true
+    "navigator": true,
+    "io": true
   },
   "parser": "babel-eslint"
 }

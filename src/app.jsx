@@ -1,6 +1,15 @@
 import React from 'react'
-import ReactDOM from 'react-dom'
+import ReactDom from 'react-dom'
+import { Provider } from 'react-redux'
 
-const title = 'Code Viewer 2019'
+import './app.scss'
 
-ReactDOM.render(<div>{title}</div>, document.getElementById('react-app'))
+import AppStore from './App.Store'
+import AppComponent from './components/app'
+
+ReactDom.render(
+  <Provider store={AppStore}>
+    <AppComponent />
+  </Provider>,
+  document.getElementById('react-app')
+)
