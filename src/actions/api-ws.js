@@ -35,6 +35,8 @@ export const startWs = store => {
   })
 
   socket.on('server:GetTreeDataDone', data => {
-    store.dispatch(getTreeDataDone(data))
+    if (typeof data.message === 'string')
+      store.dispatch({ type: 'ApiReadTree' })
+    else store.dispatch(getTreeDataDone(data))
   })
 }

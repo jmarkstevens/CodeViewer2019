@@ -1,6 +1,6 @@
 {
   "darwin": {
-    "readRoot": "/Volumes/LaCie/NginX/CodeView",
+    "readRoot": "/Volumes/LaCie/NginX/CodeView/",
     "dataRoot": "/Users/jmarkstevens/Kykas/Active/react/code-viewer/data/"
   },
   "linux": {

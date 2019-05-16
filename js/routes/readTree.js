@@ -74,8 +74,7 @@ module.exports = readTreeDone => {
     const fileListReturned = []
 
     function eachFileNameAction(fileName, eachFileNameDoneCB) {
-      const filePath = `${listFolder}/${fileName}`
-      // console.log('eachFileNameAction filePath:', filePath)
+      const filePath = listFolder + fileName
       const addToList = newRecord => {
         fileListReturned.push(newRecord)
         return eachFileNameDoneCB()
