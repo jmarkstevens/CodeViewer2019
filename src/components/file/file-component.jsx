@@ -1,7 +1,7 @@
 import React from 'react'
 
 const FileViewSty = {
-  backgroundColor: '#232a1f',
+  backgroundColor: '#001000',
   color: '#ccc',
   margin: '5px 20px',
   overflow: 'auto',
