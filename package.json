@@ -12,7 +12,7 @@
     "url": "git+https://github.com/jmarkstevens/CodeViewer2019.git"
   },
   "scripts": {
-    "start": "nodemon --watch dist js/server.js",
+    "start": "nodemon --watch js js/server.js",
     "ww": "webpack --config wp/wp.config.js --progress --profile --colors --mode development --watch",
     "nw": "webpack --config wp/wp.config.js --progress --profile --colors --mode development",
     "build": "webpack --config wp/wp.config.js --progress --profile --colors --mode production"
