@@ -3,6 +3,7 @@ import ReactDom from 'react-dom'
 import { Provider } from 'react-redux'
 
 import './app.scss'
+import './styles/twilightj.css'
 
 import AppStore from './App.Store'
 import AppComponent from './components/app'

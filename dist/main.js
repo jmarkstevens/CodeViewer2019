@@ -1330,7 +1330,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export (binding) *
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ \"./node_modules/react/index.js\");\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var react_dom__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react-dom */ \"./node_modules/react-dom/index.js\");\n/* harmony import */ var react_dom__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react_dom__WEBPACK_IMPORTED_MODULE_1__);\n/* harmony import */ var react_redux__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! react-redux */ \"./node_modules/react-redux/es/index.js\");\n/* harmony import */ var _app_scss__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./app.scss */ \"./src/app.scss\");\n/* harmony import */ var _app_scss__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(_app_scss__WEBPACK_IMPORTED_MODULE_3__);\n/* harmony import */ var _App_Store__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./App.Store */ \"./src/App.Store.js\");\n/* harmony import */ var _components_app__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./components/app */ \"./src/components/app/index.js\");\n\n\n\n\n\n\nreact_dom__WEBPACK_IMPORTED_MODULE_1___default.a.render(react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_redux__WEBPACK_IMPORTED_MODULE_2__[\"Provider\"], {\n  store: _App_Store__WEBPACK_IMPORTED_MODULE_4__[\"default\"]\n}, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_components_app__WEBPACK_IMPORTED_MODULE_5__[\"default\"], null)), document.getElementById('react-app'));\n\n//# sourceURL=webpack:///./src/app.jsx?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ \"./node_modules/react/index.js\");\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var react_dom__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react-dom */ \"./node_modules/react-dom/index.js\");\n/* harmony import */ var react_dom__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react_dom__WEBPACK_IMPORTED_MODULE_1__);\n/* harmony import */ var react_redux__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! react-redux */ \"./node_modules/react-redux/es/index.js\");\n/* harmony import */ var _app_scss__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./app.scss */ \"./src/app.scss\");\n/* harmony import */ var _app_scss__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(_app_scss__WEBPACK_IMPORTED_MODULE_3__);\n/* harmony import */ var _styles_twilightj_css__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./styles/twilightj.css */ \"./src/styles/twilightj.css\");\n/* harmony import */ var _styles_twilightj_css__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(_styles_twilightj_css__WEBPACK_IMPORTED_MODULE_4__);\n/* harmony import */ var _App_Store__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./App.Store */ \"./src/App.Store.js\");\n/* harmony import */ var _components_app__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./components/app */ \"./src/components/app/index.js\");\n\n\n\n\n\n\n\nreact_dom__WEBPACK_IMPORTED_MODULE_1___default.a.render(react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_redux__WEBPACK_IMPORTED_MODULE_2__[\"Provider\"], {\n  store: _App_Store__WEBPACK_IMPORTED_MODULE_5__[\"default\"]\n}, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_components_app__WEBPACK_IMPORTED_MODULE_6__[\"default\"], null)), document.getElementById('react-app'));\n\n//# sourceURL=webpack:///./src/app.jsx?");
 
 /***/ }),
 
@@ -1353,7 +1353,7 @@ eval("// extracted by mini-css-extract-plugin\n\n//# sourceURL=webpack:///./src/
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ \"./node_modules/react/index.js\");\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _containers_tree__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../../containers/tree */ \"./src/containers/tree/index.js\");\n\n\n\nvar AppComponent = function AppComponent() {\n  return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"div\", {\n    className: \"app-container\"\n  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"div\", {\n    className: \"tree-container\"\n  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_containers_tree__WEBPACK_IMPORTED_MODULE_1__[\"default\"], null)), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"div\", {\n    className: \"file-container\"\n  }, \"FileContainer\"));\n};\n\n/* harmony default export */ __webpack_exports__[\"default\"] = (AppComponent);\n\n//# sourceURL=webpack:///./src/components/app/app.component.jsx?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ \"./node_modules/react/index.js\");\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _containers_file__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../../containers/file */ \"./src/containers/file/index.js\");\n/* harmony import */ var _containers_tree__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../containers/tree */ \"./src/containers/tree/index.js\");\n\n\n\n\nvar AppComponent = function AppComponent() {\n  return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"div\", {\n    className: \"app-container\"\n  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"div\", {\n    className: \"tree-container\"\n  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_containers_tree__WEBPACK_IMPORTED_MODULE_2__[\"default\"], null)), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"div\", {\n    className: \"file-container\"\n  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_containers_file__WEBPACK_IMPORTED_MODULE_1__[\"default\"], null)));\n};\n\n/* harmony default export */ __webpack_exports__[\"default\"] = (AppComponent);\n\n//# sourceURL=webpack:///./src/components/app/app.component.jsx?");
 
 /***/ }),
 
@@ -1393,6 +1393,30 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var clas
 
 /***/ }),
 
+/***/ "./src/components/file/file-component.jsx":
+/*!************************************************!*\
+  !*** ./src/components/file/file-component.jsx ***!
+  \************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ \"./node_modules/react/index.js\");\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);\n\nvar FileViewSty = {\n  backgroundColor: '#232a1f',\n  color: '#ccc',\n  margin: '5px 20px',\n  overflow: 'auto',\n  width: '100%'\n};\nvar FileCtrlSty = {\n  marginBottom: '5%',\n  width: '100%'\n};\n\nvar FileView = function FileView(_ref) {\n  var fileData = _ref.fileData;\n  var htmlDivSty = {\n    width: '100%'\n  };\n  if (fileData.startsWith('<pre>')) htmlDivSty.overflow = 'hidden';else htmlDivSty.overflow = 'auto';\n  var fileHtml = {\n    __html: fileData\n  };\n  return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"div\", {\n    id: \"FileViewCtrlRenderSty\",\n    style: FileViewSty\n  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"div\", {\n    id: \"FileCtrlSty\",\n    style: FileCtrlSty\n  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"div\", {\n    dangerouslySetInnerHTML: fileHtml,\n    style: htmlDivSty\n  })));\n};\n\n/* harmony default export */ __webpack_exports__[\"default\"] = (FileView);\n\n//# sourceURL=webpack:///./src/components/file/file-component.jsx?");
+
+/***/ }),
+
+/***/ "./src/components/file/index.js":
+/*!**************************************!*\
+  !*** ./src/components/file/index.js ***!
+  \**************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _file_component__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./file-component */ \"./src/components/file/file-component.jsx\");\n/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, \"default\", function() { return _file_component__WEBPACK_IMPORTED_MODULE_0__[\"default\"]; });\n\n\n\n//# sourceURL=webpack:///./src/components/file/index.js?");
+
+/***/ }),
+
 /***/ "./src/components/tree/index.js":
 /*!**************************************!*\
   !*** ./src/components/tree/index.js ***!
@@ -1414,6 +1438,30 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _tre
 
 "use strict";
 eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ \"./node_modules/react/index.js\");\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _common_TreeView__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../common/TreeView */ \"./src/components/common/TreeView/index.js\");\n\n\n\nvar TreeComponent = function TreeComponent(_ref) {\n  var selectTreeNode = _ref.selectTreeNode,\n      setTreeNodeClosed = _ref.setTreeNodeClosed,\n      treeData = _ref.treeData;\n  var options = {\n    icon: {\n      sun: 'dev',\n      leaf: 'home',\n      snow: 'sys'\n    },\n    typeName: ['node', 'type']\n  };\n  return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"div\", null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_common_TreeView__WEBPACK_IMPORTED_MODULE_1__[\"default\"], {\n    data: treeData,\n    options: options,\n    iconClick: setTreeNodeClosed,\n    titleClick: selectTreeNode\n  }));\n};\n\n/* harmony default export */ __webpack_exports__[\"default\"] = (TreeComponent);\n\n//# sourceURL=webpack:///./src/components/tree/tree-component.js?");
+
+/***/ }),
+
+/***/ "./src/containers/file/file-container.js":
+/*!***********************************************!*\
+  !*** ./src/containers/file/file-container.js ***!
+  \***********************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var react_redux__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react-redux */ \"./node_modules/react-redux/es/index.js\");\n/* harmony import */ var _components_file__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../../components/file */ \"./src/components/file/index.js\");\n/* harmony import */ var _selectors__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../selectors */ \"./src/selectors/index.js\");\n\n\n\n\nvar mapStateToProps = function mapStateToProps(state) {\n  return {\n    fileData: Object(_selectors__WEBPACK_IMPORTED_MODULE_2__[\"getCurrentFile\"])(state)\n  };\n};\n\n/* harmony default export */ __webpack_exports__[\"default\"] = (Object(react_redux__WEBPACK_IMPORTED_MODULE_0__[\"connect\"])(mapStateToProps, null)(_components_file__WEBPACK_IMPORTED_MODULE_1__[\"default\"]));\n\n//# sourceURL=webpack:///./src/containers/file/file-container.js?");
+
+/***/ }),
+
+/***/ "./src/containers/file/index.js":
+/*!**************************************!*\
+  !*** ./src/containers/file/index.js ***!
+  \**************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _file_container__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./file-container */ \"./src/containers/file/file-container.js\");\n/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, \"default\", function() { return _file_container__WEBPACK_IMPORTED_MODULE_0__[\"default\"]; });\n\n\n\n//# sourceURL=webpack:///./src/containers/file/index.js?");
 
 /***/ }),
 
@@ -1485,7 +1533,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export (binding) *
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"getCurrentFile\", function() { return getCurrentFile; });\n// eslint-disable-next-line import/prefer-default-export\nvar getCurrentFile = function getCurrentFile(state) {\n  return state.FileState.currentFile;\n};\n\n//# sourceURL=webpack:///./src/selectors/file-selectors.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"getCurrentFile\", function() { return getCurrentFile; });\n// eslint-disable-next-line import/prefer-default-export\nvar getCurrentFile = function getCurrentFile(state) {\n  return state.FileState.fileData;\n};\n\n//# sourceURL=webpack:///./src/selectors/file-selectors.js?");
 
 /***/ }),
 
@@ -1510,6 +1558,17 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _fil
 
 "use strict";
 eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"getCurrentTreeNode\", function() { return getCurrentTreeNode; });\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"getShowTreeEdit\", function() { return getShowTreeEdit; });\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"getShowTreeNew\", function() { return getShowTreeNew; });\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"getTreeData\", function() { return getTreeData; });\nvar getCurrentTreeNode = function getCurrentTreeNode(state) {\n  return state.TreeState.currentTreeNode;\n};\nvar getShowTreeEdit = function getShowTreeEdit(state) {\n  return state.TreeState.showTreeEdit;\n};\nvar getShowTreeNew = function getShowTreeNew(state) {\n  return state.TreeState.showTreeNew;\n};\nvar getTreeData = function getTreeData(state) {\n  return state.TreeState.treeData;\n};\n\n//# sourceURL=webpack:///./src/selectors/tree-selectors.js?");
+
+/***/ }),
+
+/***/ "./src/styles/twilightj.css":
+/*!**********************************!*\
+  !*** ./src/styles/twilightj.css ***!
+  \**********************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("// extracted by mini-css-extract-plugin\n\n//# sourceURL=webpack:///./src/styles/twilightj.css?");
 
 /***/ })
 

@@ -1,5 +1,6 @@
 import React from 'react'
 
+import FileContainer from '../../containers/file'
 import TreeContainer from '../../containers/tree'
 
 const AppComponent = () => {
@@ -9,7 +10,7 @@ const AppComponent = () => {
         <TreeContainer />
       </div>
       <div className="file-container">
-        FileContainer{/* <FileContainer /> */}
+        <FileContainer />
       </div>
     </div>
   )
