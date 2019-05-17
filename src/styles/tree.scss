@@ -5,29 +5,3 @@
   padding-left: 0;
   width: 30%;
 }
-
-.tree-buttons {
-  display: flex;
-  font-size: 0.9em;
-  height: 40px;
-  justify-content: space-between;
-  margin: 10px;
-  text-align: center;
-  vertical-align: middle;
-  width: 250px;
-}
-
-.tree-edit-new {
-  background-color: $tree-edit-new-background;
-  margin: 10px;
-  width: 250px;
-}
-
-.tree-edit-new-buttons {
-  display: flex;
-  font-size: 0.9em;
-  height: 40px;
-  justify-content: space-between;
-  text-align: center;
-  vertical-align: middle;
-}
