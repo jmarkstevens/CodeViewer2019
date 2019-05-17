@@ -2,7 +2,7 @@
   border: solid 0px darkslategray;
   font-family: 'Lucida Console', Monaco, monospace;
   height: calc(100% - 40px);
-  overflow: hidden;
+  overflow: auto;
   padding: 0;
   width: calc(70% - 40px);
 }
@@ -12,5 +12,9 @@
   color: #ccc;
   margin: 5px 20px 5%;
   overflow: auto;
+  width: 100%;
+}
+
+.file-view-html {
   width: 100%;
 }

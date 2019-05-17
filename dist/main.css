@@ -437,82 +437,19 @@ noscript {
   border: solid 0px darkslategray;
   font-family: 'Lucida Console', Monaco, monospace;
   height: calc(100% - 40px);
-  overflow: hidden;
+  overflow: auto;
   padding: 0;
   width: calc(70% - 40px); }
 
-.snip-buttons {
-  display: flex;
-  font-size: 0.9em;
-  height: 40px;
-  margin: 10px 20px;
-  vertical-align: middle; }
-
-.snip-button-group {
-  margin-left: 20px; }
-
-.snip-list {
-  flex-grow: 3;
-  overflow-y: auto; }
-
-.snip-list-ul {
-  margin: 0;
-  -webkit-padding-start: 0px; }
-
-.snip-list-li {
-  color: transparent;
-  list-style-type: none; }
-
-.snip-list-item {
-  color: #bda870;
-  cursor: pointer;
-  display: flex;
-  font-size: 1em;
-  height: 1.5em;
-  line-height: 1.5em;
-  margin: 3px 0;
-  vertical-align: middle; }
-
-.snip-list-item-select {
-  margin-right: 10px;
-  padding: 0; }
-
-.snip-button-icon {
-  color: #bda870 !important;
-  font-size: 1.5em !important; }
-
-.snip-list-item-snip {
-  overflow: hidden;
-  white-space: nowrap; }
-
-.snip-detail-list-container {
-  display: flex;
-  flex-direction: column;
-  height: calc(100vh - 70px);
+.file-view {
+  background-color: #001000;
+  color: #ccc;
+  margin: 5px 20px 5%;
+  overflow: auto;
   width: 100%; }
 
-.snip-detail {
-  display: flex;
-  flex-direction: column;
-  flex-grow: 2;
+.file-view-html {
   width: 100%; }
-
-.snip-detail-text-area {
-  background-color: transparent;
-  border: 1px solid #314929;
-  border-radius: 10px;
-  color: #bda870;
-  font-size: 1em;
-  margin-bottom: 10px;
-  overflow-y: auto;
-  padding: 15px;
-  width: calc(100% - 12px); }
-
-.snip-detail-snip {
-  flex-grow: 3; }
-
-.snip-detail-comment {
-  flex-grow: 1; }
 
 .tree-container {
   border: solid 0px darkslategray;

@@ -58,12 +58,11 @@ function selectTreeNode(treeData, _currentTreeNode, treeNode) {
   const nodeIndex1 = getNodeIndex(treeData, _currentTreeNode)
   nodeIndex1.push('selected')
   traverse(treeData).set(nodeIndex1, false)
-  const currentTreeNode = treeNode
-  const nodeIndex2 = getNodeIndex(treeData, _currentTreeNode)
+  const nodeIndex2 = getNodeIndex(treeData, treeNode)
   nodeIndex2.push('selected')
   traverse(treeData).set(nodeIndex2, true)
 
-  return { treeData, currentTreeNode }
+  return { treeData, currentTreeNode: treeNode }
 }
 
 function setTreeNodeClosed(_treeData, treeNode) {
@@ -89,11 +88,12 @@ export default function handleActions(state = initialTreeState, action) {
   const currentCopy = Object.assign({}, treeState.currentTreeNode)
   switch (action.type) {
     case 'GetTreeDataDone': {
-      if (action.data) return gotTreeData(action.data)
-      return state
+      const newTreeData = gotTreeData(action.data)
+      return { ...state, ...newTreeData }
     }
     case 'SelectTreeNode': {
-      return selectTreeNode(treeCopy, currentCopy, action.node)
+      const selectTreeData = selectTreeNode(treeCopy, currentCopy, action.node)
+      return { ...state, ...selectTreeData }
     }
     case 'SetTreeNodeClosed': {
       const closedTreeData = setTreeNodeClosed(treeCopy, action.node)

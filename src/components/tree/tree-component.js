@@ -6,6 +6,7 @@ const TreeComponent = ({ selectTreeNode, setTreeNodeClosed, treeData }) => {
     icon: { sun: 'dev', leaf: 'home', snow: 'sys' },
     typeName: ['node', 'type']
   }
+  if (typeof treeData === 'undefined' || treeData.length === 0) return null
   return (
     <div>
       <TreeView

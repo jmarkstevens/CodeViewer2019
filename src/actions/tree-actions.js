@@ -3,7 +3,7 @@ export function selectTreeNode(node) {
     dispatch({ type: 'SelectTreeNode', node })
     dispatch({
       type: 'ApiSetTreeData',
-      data: { data: getState().TreeState.treeData }
+      data: getState().TreeState.treeData
     })
     const { currentTreeNode } = getState().TreeState
     const filePath = currentTreeNode.nodeid
@@ -19,7 +19,7 @@ export function setTreeNodeClosed(node) {
     dispatch({ type: 'SetTreeNodeClosed', node })
     dispatch({
       type: 'ApiSetTreeData',
-      data: { data: getState().TreeState.treeData }
+      data: getState().TreeState.treeData
     })
   }
 }
@@ -27,9 +27,6 @@ export function setTreeNodeClosed(node) {
 export function getTreeDataDone(data) {
   return (dispatch, getState) => {
     dispatch({ type: 'GetTreeDataDone', data })
-    dispatch({
-      type: 'SelectTreeNode',
-      node: getState().TreeState.currentTreeNode
-    })
+    dispatch(selectTreeNode(getState().TreeState.currentTreeNode))
   }
 }

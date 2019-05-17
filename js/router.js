@@ -23,16 +23,8 @@ module.exports = socket => {
   }
   socket.on('client:readTree', onReadTree)
 
-  const getTreeDataStateDone = data => {
-    socket.emit('server:GetTreeDataStateDone', data)
+  const onSetTreeData = data => {
+    getSetData.setData('FileTree', data)
   }
-  const onGetTreeDataState = () => {
-    getSetData.getData('FileTreeState', getTreeDataStateDone)
-  }
-  socket.on('client:getTreeDataState', onGetTreeDataState)
-
-  const onSetTreeDataState = data => {
-    getSetData.setData('FileTreeState', data)
-  }
-  socket.on('client:setTreeDataState', onSetTreeDataState)
+  socket.on('client:SetTreeData', onSetTreeData)
 }

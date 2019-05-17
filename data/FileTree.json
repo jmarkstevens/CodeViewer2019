@@ -2430,7 +2430,8 @@
     ],
     "nodeid": "AngularPatterns2017",
     "title": "AngularPatterns2017",
-    "closed": true
+    "closed": true,
+    "selected": false
   },
   {
     "children": [
@@ -3342,12 +3343,13 @@
                       {
                         "children": [],
                         "nodeid": "Clippets2019/src/components/tree/tree-list/tree-list.jsx",
-                        "title": "tree-list.jsx"
+                        "title": "tree-list.jsx",
+                        "selected": false
                       }
                     ],
                     "nodeid": "Clippets2019/src/components/tree/tree-list",
                     "title": "tree-list",
-                    "closed": true
+                    "closed": false
                   },
                   {
                     "children": [],
@@ -3367,7 +3369,7 @@
             ],
             "nodeid": "Clippets2019/src/components",
             "title": "components",
-            "closed": true
+            "closed": false
           },
           {
             "children": [
@@ -3501,7 +3503,8 @@
           {
             "children": [],
             "nodeid": "Clippets2019/src/App.Store.js",
-            "title": "App.Store.js"
+            "title": "App.Store.js",
+            "selected": true
           },
           {
             "children": [],
@@ -3521,7 +3524,7 @@
         ],
         "nodeid": "Clippets2019/src",
         "title": "src",
-        "closed": true
+        "closed": false
       },
       {
         "children": [
@@ -3563,7 +3566,7 @@
     ],
     "nodeid": "Clippets2019",
     "title": "Clippets2019",
-    "closed": true
+    "closed": false
   },
   {
     "children": [

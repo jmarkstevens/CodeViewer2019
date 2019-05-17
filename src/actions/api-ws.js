@@ -17,7 +17,7 @@ export const wsMiddleware = () => {
           socket.emit('client:getTreeData')
           break
         case 'ApiSetTreeData':
-          socket.emit('client:setTreeData', action.data)
+          socket.emit('client:SetTreeData', action.data)
           break
         default:
           break
