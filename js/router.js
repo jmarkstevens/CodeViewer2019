@@ -8,7 +8,7 @@ module.exports = socket => {
   const onGetFileData = data => {
     getSetData.getFileData(data, getFileDataDone)
   }
-  socket.on('client:getFileData', onGetFileData)
+  socket.on('client:GetFileData', onGetFileData)
 
   const getTreeDataDone = data => {
     socket.emit('server:GetTreeDataDone', data)
@@ -16,12 +16,12 @@ module.exports = socket => {
   const onGetTreeData = () => {
     getSetData.getData('FileTree', getTreeDataDone)
   }
-  socket.on('client:getTreeData', onGetTreeData)
+  socket.on('client:GetTreeData', onGetTreeData)
 
   const onReadTree = () => {
     readTree(onGetTreeData)
   }
-  socket.on('client:readTree', onReadTree)
+  socket.on('client:ReadTree', onReadTree)
 
   const onSetTreeData = data => {
     getSetData.setData('FileTree', data)

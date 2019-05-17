@@ -44,12 +44,27 @@ module.exports.getFileData = (clientData, doneCallBack) => {
         fileContents: inData,
         scopeName: 'source.js'
       })
+    } else if (inFile.endsWith('.ts')) {
+      outData = highlighter.highlightSync({
+        fileContents: inData,
+        scopeName: 'source.js'
+      })
+    } else if (inFile.endsWith('.tsx')) {
+      outData = highlighter.highlightSync({
+        fileContents: inData,
+        scopeName: 'source.js'
+      })
     } else if (inFile.endsWith('.json')) {
       outData = highlighter.highlightSync({
         fileContents: inData,
         scopeName: 'source.json'
       })
     } else if (inFile.endsWith('.css')) {
+      outData = highlighter.highlightSync({
+        fileContents: inData,
+        scopeName: 'source.css'
+      })
+    } else if (inFile.endsWith('.scss')) {
       outData = highlighter.highlightSync({
         fileContents: inData,
         scopeName: 'source.css'

@@ -8,13 +8,13 @@ export const wsMiddleware = () => {
     if (socket) {
       switch (action.type) {
         case 'ApiReadTree':
-          socket.emit('client:readTree', {})
+          socket.emit('client:ReadTree', {})
           break
         case 'ApiGetFileData':
-          socket.emit('client:getFileData', action.data)
+          socket.emit('client:GetFileData', action.data)
           break
         case 'ApiGetTreeData':
-          socket.emit('client:getTreeData')
+          socket.emit('client:GetTreeData')
           break
         case 'ApiSetTreeData':
           socket.emit('client:SetTreeData', action.data)
