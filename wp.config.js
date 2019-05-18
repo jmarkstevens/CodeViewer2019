@@ -1,10 +1,9 @@
-/* eslint-disable import/no-extraneous-dependencies */
 const path = require('path')
 const HtmlWebpackPlugin = require('html-webpack-plugin')
 const MiniCssExtractPlugin = require('mini-css-extract-plugin')
 
 const ROOT_PATH = path.resolve(__dirname)
-const DIST_PATH = path.resolve(ROOT_PATH, '../dist')
+const DIST_PATH = path.resolve(ROOT_PATH, './dist')
 
 module.exports = {
   entry: './src/app.jsx',
