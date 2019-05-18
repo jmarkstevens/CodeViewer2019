@@ -1,7 +1,7 @@
 {
   "darwin": {
     "readRoot": "/Volumes/LaCie/NginX/CodeView/",
-    "dataRoot": "/Users/jmarkstevens/Kykas/Active/react/code-viewer/data/"
+    "dataRoot": "/Users/jmarkstevens/Kykas/Projects/code-viewer/data/"
   },
   "linux": {
     "readRoot": "/var/www/CodeView/",

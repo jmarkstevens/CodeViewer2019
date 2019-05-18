@@ -7,7 +7,7 @@ import CombinedState from './reducers'
 
 const middleware = [thunkMiddleware, wsMiddleware]
 
-const useLogger = 1
+const useLogger = 0
 if (useLogger) middleware.push(logger)
 
 const store = createStore(CombinedState, applyMiddleware(...middleware))
