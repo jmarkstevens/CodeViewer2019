@@ -8,7 +8,7 @@ const favicon = require('serve-favicon')
 const path = require('path')
 const router = require('./router')
 
-const port = Number(process.env.CODEVIEWERPORT || 8080)
+const port = Number(process.env.CODEVIEWERPORT || 5300)
 
 server.listen(port)
 
