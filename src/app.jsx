@@ -5,7 +5,7 @@ import { Provider } from 'react-redux'
 import './app.scss'
 import './styles/twilightj.css'
 
-import AppStore from './App.Store'
+import AppStore from './app-store'
 import AppComponent from './components/app'
 
 ReactDom.render(
