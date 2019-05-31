@@ -1,14 +1,14 @@
 {
   "darwin": {
     "readRoot": "/Volumes/LaCie/NginX/CodeView/",
-    "dataRoot": "/Users/jmarkstevens/Kykas/Projects/code-viewer/data/"
+    "dataRoot": "/Users/jmarkstevens/Kykas/Projects/CodeViewer/data/"
   },
   "linux": {
     "readRoot": "/var/www/CodeView/",
-    "dataRoot": "/var/www/ngCodeViewer/data/"
+    "dataRoot": "/var/www/CodeViewer/data/"
   },
   "win32": {
-    "readRoot": "/Users/janaka/Kykas/Projects/",
-    "dataRoot": "/Users/janaka/Kykas/Projects/ngCodeViewer/data/"
+    "readRoot": "/Users/jmarkstevens/Kykas/Projects/",
+    "dataRoot": "/Users/jmarkstevens/Kykas/Projects/ngCodeViewer/data/"
   }
 }
