@@ -23,7 +23,7 @@
     "highlights": "3.1.1",
     "remarkable": "1.7.1",
     "serve-favicon": "2.5.0",
-    "socket.io": "2.2.0"
+    "socket.io": "2.4.0"
   },
   "devDependencies": {
     "@babel/core": "^7.4.4",
