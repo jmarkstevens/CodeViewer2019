@@ -18,7 +18,7 @@
     "build": "webpack --config wp.config.js --progress --profile --colors --mode production"
   },
   "dependencies": {
-    "async": "2.6.2",
+    "async": "3.2.2",
     "express": "4.16.4",
     "highlights": "3.1.1",
     "remarkable": "1.7.1",
